@@ -51,7 +51,7 @@ The index gives one event per filing. The consumer fetches the file, parses the 
 No keys, no network, no containers needed for the demo (Python 3.12 or 3.13):
 
 ```bash
-python3 -m venv .venv && . .venv/bin/activate
+python3.13 -m venv .venv && . .venv/bin/activate   # or python3.12
 pip install -r requirements.txt && pip install -e . --no-deps
 make demo            # replays the committed sample, builds the star schema, writes site/index.html
 make dashboard       # serves it at http://localhost:8501
@@ -71,7 +71,7 @@ To fetch real days, copy `.env.example` to `.env` and set `EDGAR_USER_AGENT` to 
 
 ## Tests
 
-`make test` runs 34 pytest cases on the committed sample and generated data, including Hypothesis tests that shuffle and duplicate events and check the warehouse ends in the same state. `make lint` runs ruff. CI runs both on Python 3.12 and 3.13, then `make demo`.
+`make test` runs 35 pytest cases on the committed sample and generated data, including Hypothesis tests that shuffle and duplicate events and check the warehouse ends in the same state. `make lint` runs ruff. CI runs both on Python 3.12 and 3.13, then `make demo`.
 
 ## What I'd do next
 
