@@ -21,7 +21,10 @@ PAIR = ("0001104659-26-116990", "0001104659-26-117835")  # an 8-K and its 8-K/A
 MAX_RAW = 150_000
 N_PLAIN = 26
 # Strings that must never reach the committed sample, written in pieces so this file stays clean.
-BANNED = ("S&" "P", "KP" "IT", "Sri" "ja", "@gm" "ail.com", "/Us" "ers/")
+BANNED = tuple(
+    "".join(parts)
+    for parts in (("S&", "P"), ("KP", "IT"), ("Sri", "ja"), ("@gm", "ail.com"), ("/Us", "ers/"))
+)
 
 
 def load_all() -> dict[str, tuple[FilingEvent, Path]]:
