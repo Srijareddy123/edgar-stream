@@ -1,0 +1,13 @@
+name: edgar_star
+version: "0.1.0"
+config-version: 2
+profile: edgar_star
+model-paths: ["models"]
+macro-paths: ["macros"]
+target-path: "target"
+log-path: "logs"
+models:
+  edgar_star:
+    marts:
+      +materialized: table
+      +schema: star

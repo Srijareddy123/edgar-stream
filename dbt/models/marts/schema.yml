@@ -1,0 +1,39 @@
+version: 2
+models:
+  - name: dim_companies
+    columns:
+      - name: company_key
+        tests: [unique, not_null]
+  - name: dim_forms
+    columns:
+      - name: form
+        tests: [unique, not_null]
+      - name: form_family
+        tests:
+          - accepted_values:
+              values: ["annual report", "quarterly report", "current report", "other"]
+  - name: dim_dates
+    columns:
+      - name: date_key
+        tests: [unique, not_null]
+  - name: fact_filings
+    columns:
+      - name: filing_sk
+        tests: [unique, not_null]
+      - name: company_key
+        tests:
+          - not_null
+          - relationships: {to: ref('dim_companies'), field: company_key}
+      - name: form
+        tests:
+          - relationships: {to: ref('dim_forms'), field: form}
+      - name: filed_date_key
+        tests:
+          - not_null
+          - relationships: {to: ref('dim_dates'), field: date_key}
+  - name: fact_sections
+    columns:
+      - name: filing_sk
+        tests:
+          - not_null
+          - relationships: {to: ref('fact_filings'), field: filing_sk}
