@@ -1,0 +1,85 @@
+{
+ "date": "2026-10-19",
+ "events": [
+  {
+   "accession": "0000812011-26-000147",
+   "version": 0,
+   "cik": 812011,
+   "company": "VAIL RESORTS INC",
+   "form": "8-K",
+   "filed_date": "2026-10-19",
+   "url_path": "edgar/data/812011/0000812011-26-000147.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0000929638-26-003947",
+   "version": 0,
+   "cik": 1654238,
+   "company": "EFCAR, LLC",
+   "form": "8-K",
+   "filed_date": "2026-10-19",
+   "url_path": "edgar/data/1654238/0000929638-26-003947.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0000929638-26-003948",
+   "version": 0,
+   "cik": 1654238,
+   "company": "EFCAR, LLC",
+   "form": "8-K",
+   "filed_date": "2026-10-19",
+   "url_path": "edgar/data/1654238/0000929638-26-003948.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001095073-26-000038",
+   "version": 0,
+   "cik": 1095073,
+   "company": "EVEREST GROUP, LTD.",
+   "form": "8-K",
+   "filed_date": "2026-10-19",
+   "url_path": "edgar/data/1095073/0001095073-26-000038.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001096906-26-001569",
+   "version": 0,
+   "cik": 1404804,
+   "company": "Omnitek Engineering Corp",
+   "form": "8-K",
+   "filed_date": "2026-10-19",
+   "url_path": "edgar/data/1404804/0001096906-26-001569.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001104659-26-116914",
+   "version": 0,
+   "cik": 1520048,
+   "company": "Permianville Royalty Trust",
+   "form": "8-K",
+   "filed_date": "2026-10-19",
+   "url_path": "edgar/data/1520048/0001104659-26-116914.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001140361-26-040117",
+   "version": 0,
+   "cik": 874761,
+   "company": "AES CORP",
+   "form": "8-K",
+   "filed_date": "2026-10-19",
+   "url_path": "edgar/data/874761/0001140361-26-040117.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001193125-26-424739",
+   "version": 0,
+   "cik": 1515673,
+   "company": "Ultragenyx Pharmaceutical Inc.",
+   "form": "8-K",
+   "filed_date": "2026-10-19",
+   "url_path": "edgar/data/1515673/0001193125-26-424739.txt",
+   "event_ts_ms": 0
+  }
+ ]
+}

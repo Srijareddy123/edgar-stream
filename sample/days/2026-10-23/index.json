@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-23",
+ "events": [
+  {
+   "accession": "0000048465-26-000058",
+   "version": 0,
+   "cik": 48465,
+   "company": "HORMEL FOODS CORP /DE/",
+   "form": "8-K",
+   "filed_date": "2026-10-23",
+   "url_path": "edgar/data/48465/0000048465-26-000058.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0000794367-26-000049",
+   "version": 0,
+   "cik": 794367,
+   "company": "Macy's, Inc.",
+   "form": "8-K",
+   "filed_date": "2026-10-23",
+   "url_path": "edgar/data/794367/0000794367-26-000049.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001087294-26-000070",
+   "version": 0,
+   "cik": 1087294,
+   "company": "CUMBERLAND PHARMACEUTICALS INC",
+   "form": "8-K",
+   "filed_date": "2026-10-23",
+   "url_path": "edgar/data/1087294/0001087294-26-000070.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001140361-26-040657",
+   "version": 0,
+   "cik": 1902649,
+   "company": "BlackRock Private Credit Fund",
+   "form": "8-K",
+   "filed_date": "2026-10-23",
+   "url_path": "edgar/data/1902649/0001140361-26-040657.txt",
+   "event_ts_ms": 0
+  }
+ ]
+}

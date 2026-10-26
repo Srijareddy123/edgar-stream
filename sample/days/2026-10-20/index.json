@@ -1,0 +1,95 @@
+{
+ "date": "2026-10-20",
+ "events": [
+  {
+   "accession": "0001104659-26-116990",
+   "version": 0,
+   "cik": 2033991,
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "8-K",
+   "filed_date": "2026-10-20",
+   "url_path": "edgar/data/2033991/0001104659-26-116990.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0000875320-26-000278",
+   "version": 0,
+   "cik": 875320,
+   "company": "VERTEX PHARMACEUTICALS INC / MA",
+   "form": "8-K",
+   "filed_date": "2026-10-20",
+   "url_path": "edgar/data/875320/0000875320-26-000278.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001104659-26-117397",
+   "version": 0,
+   "cik": 313364,
+   "company": "MESA ROYALTY TRUST/TX",
+   "form": "8-K",
+   "filed_date": "2026-10-20",
+   "url_path": "edgar/data/313364/0001104659-26-117397.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001104659-26-117413",
+   "version": 0,
+   "cik": 1505413,
+   "company": "VOC Energy Trust",
+   "form": "8-K",
+   "filed_date": "2026-10-20",
+   "url_path": "edgar/data/1505413/0001104659-26-117413.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001193125-26-426000",
+   "version": 0,
+   "cik": 881787,
+   "company": "CROSS TIMBERS ROYALTY TRUST",
+   "form": "8-K",
+   "filed_date": "2026-10-20",
+   "url_path": "edgar/data/881787/0001193125-26-426000.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001193125-26-426186",
+   "version": 0,
+   "cik": 1724009,
+   "company": "PermRock Royalty Trust",
+   "form": "8-K",
+   "filed_date": "2026-10-20",
+   "url_path": "edgar/data/1724009/0001193125-26-426186.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001193125-26-426712",
+   "version": 0,
+   "cik": 1860424,
+   "company": "Onex Direct Lending BDC Fund",
+   "form": "8-K",
+   "filed_date": "2026-10-20",
+   "url_path": "edgar/data/1860424/0001193125-26-426712.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001193125-26-426823",
+   "version": 0,
+   "cik": 862022,
+   "company": "HUGOTON ROYALTY TRUST",
+   "form": "8-K",
+   "filed_date": "2026-10-20",
+   "url_path": "edgar/data/862022/0001193125-26-426823.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001193125-26-426824",
+   "version": 0,
+   "cik": 319655,
+   "company": "SAN JUAN BASIN ROYALTY TRUST",
+   "form": "8-K",
+   "filed_date": "2026-10-20",
+   "url_path": "edgar/data/319655/0001193125-26-426824.txt",
+   "event_ts_ms": 0
+  }
+ ]
+}

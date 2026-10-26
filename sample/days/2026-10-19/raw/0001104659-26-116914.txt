@@ -1,0 +1,1001 @@
+<SEC-DOCUMENT>0001104659-26-116914.txt : 20261019
+<SEC-HEADER>0001104659-26-116914.hdr.sgml : 20261019
+<ACCEPTANCE-DATETIME>20261019163344
+ACCESSION NUMBER:		0001104659-26-116914
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20261019
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20261019
+DATE AS OF CHANGE:		20261019
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Permianville Royalty Trust
+		CENTRAL INDEX KEY:			0001520048
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				456259461
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35333
+		FILM NUMBER:		261469483
+
+	BUSINESS ADDRESS:	
+		STREET 1:		601 TRAVIS STREET, FLOOR 16
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+		BUSINESS PHONE:		5122366555
+
+	MAIL ADDRESS:	
+		STREET 1:		601 TRAVIS STREET, FLOOR 16
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Enduro Royalty Trust
+		DATE OF NAME CHANGE:	20110505
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>tm2627850d1_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>Washington</B></FONT><B>,
+D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM&nbsp;8-K</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>CURRENT REPORT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Pursuant to Section&nbsp;13 or 15(d)&nbsp;of
+the Securities Exchange Act of 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Date of Report (Date of earliest event reported):
+<B>October&nbsp;19, 2026</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Permianville Royalty Trust</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact name of registrant as specified in its charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 33%; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Delaware</B></FONT></TD>
+    <TD STYLE="width: 2%; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="width: 30%; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>00</B></FONT><B><FONT STYLE="font-family: Times New Roman, Times, Serif">1-35333</FONT></B></TD>
+    <TD STYLE="width: 2%; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="width: 33%; font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>45-6259461</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(State or other jurisdiction of</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">incorporation)</P></TD>
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Commission</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">File Number)</P></TD>
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(I.R.S. Employer</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Identification No.)</P></TD></TR>
+  <TR>
+    <TD COLSPAN="4">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="4">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>The Bank of New York Mellon Trust Company, N.A.,
+    Trustee</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>601 Travis Street<BR>
+    16<SUP>th</SUP> Floor</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Houston, Texas </B></P></TD>
+    <TD STYLE="font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>77002</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="4" STYLE="font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Address of principal executive offices)</FONT></TD>
+    <TD STYLE="font-size: 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Zip Code)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Registrant&rsquo;s telephone number, including
+area code: <B>(713) 483-6020</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Not applicable</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">(Former name or former address,
+if changed since last report)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin: 0pt 0">Check the appropriate box below if the Form&nbsp;8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<I>see </I>General Instruction
+A.2. below):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 1.5pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></TD>
+    <TD STYLE="padding: 1.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 1.5pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></TD>
+    <TD STYLE="padding: 1.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 1.5pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></TD>
+    <TD STYLE="padding: 1.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR 240.14d-(b)) </FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding: 1.5pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></TD>
+    <TD STYLE="padding: 1.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities registered pursuant to Section&nbsp;12(b)&nbsp;of the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 34%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><U>Title of each class</U></FONT></TD>
+    <TD STYLE="width: 23%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><U>Trading symbol</U></FONT></TD>
+    <TD STYLE="width: 43%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><U>Name of each exchange on which registered</U></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Units of Beneficial Interest</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">PVL</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The New York Stock Exchange</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin: 0pt 0">Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule&nbsp;405 of the Securities Act of 1933 (&sect;230.405 of this chapter) or Rule&nbsp;12b-2 of the Securities
+Exchange Act of 1934 (&sect;240.12b-2 of this chapter).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">Emerging growth company <FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin: 0pt 0">If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section&nbsp;13(a)&nbsp;of the Exchange Act. <FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="font-size: 10pt"><B>Item 2.02</B></FONT></TD><TD><B>Results of Operations and Financial Condition.</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin: 0pt 0; text-indent: 0.5in">On October&nbsp;19, 2026, Permianville Royalty
+Trust (the &ldquo;Trust&rdquo;) issued a press release announcing the Trust&rsquo;s distribution to be paid in November&nbsp;2026. A copy
+of the press release is furnished as Exhibit&nbsp;99.1 hereto and is incorporated herein by reference.</P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin: 0pt 0; text-indent: 0.5in">Pursuant to General Instruction B.2 of Form&nbsp;8-K
+and Securities and Exchange Commission Release No.&nbsp;33-8176, the press release attached as Exhibit&nbsp;99.1 is not &ldquo;filed&rdquo;
+for purposes of Section&nbsp;18 of the Securities Exchange Act of 1934, as amended, is not subject to the liabilities of that section
+and is not deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, but is instead furnished for purposes
+of that instruction.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="font-size: 10pt"><B>Item 9.01</B></FONT></TD><TD><B>Financial Statements and Exhibits.</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">(d)<B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT>Exhibits.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="white-space: nowrap; width: 10%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Exhibit&nbsp;Number</U></B></FONT></TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 88%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Description</U></B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><A HREF="tm2627850d1_ex99-1.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">99.1</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="tm2627850d1_ex99-1.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Permianville Royalty Trust Press Release dated October&nbsp;19, 2026.</FONT></A></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin: 0pt 0; text-indent: 0.5in">Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt"><B>Permianville Royalty Trust</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: bottom; width: 50%">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; width: 3%">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; width: 3%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 44%">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">By: </FONT></TD>
+    <TD COLSPAN="2" STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">The Bank of New York Mellon Trust Company, N.A., as Trustee</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-size: 10pt">Date: October 19, 2026</FONT></TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">By: </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: bottom"><FONT STYLE="font-size: 10pt">/s/ Elaina C. Rodgers</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-size: 10pt">Elaina C. Rodgers</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-size: 10pt">Vice President</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>tm2627850d1_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 99.1</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"><IMG SRC="tm2627850d1_ex99-1img001.jpg" ALT=""></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Permianville Royalty Trust Announces Monthly
+Cash Distribution</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">HOUSTON, Texas&mdash;(BUSINESS WIRE)&mdash;October&nbsp;19,
+2026</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Permianville Royalty Trust (NYSE: PVL, the &ldquo;Trust&rdquo;)
+today announced a cash distribution to the holders of its units of beneficial interest of $0.015000 per unit, payable on November&nbsp;13,
+2026, to unitholders of record on October&nbsp;30, 2026. The net profits interest calculation represents reported oil production for the
+month of July&nbsp;2026 and reported natural gas production during June&nbsp;2026. The calculation includes accrued costs incurred in
+August&nbsp;2026.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The following table displays reported underlying
+oil and natural gas sales volumes and average received wellhead prices attributable to the current and prior month recorded net profits
+interest calculations.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt">&nbsp;</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="14" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Underlying Sales Volumes</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="6" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Average Price</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt">&nbsp;</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="6" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Oil</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="6" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Natural Gas</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center">Oil</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center">Natural Gas</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt">&nbsp;</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Bbls</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Bbls/D</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Mcf</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Mcf/D</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">(per Bbl)</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">(per Mcf)</TD><TD STYLE="padding-bottom: 1pt; font: bold 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 21%; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Current Month</FONT></TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif; text-align: right">38,067</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif; text-align: right">1,228</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif; text-align: right">783,863</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif; text-align: right">26,129</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif; text-align: right">81.06</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="width: 10%; font: 10pt Times New Roman, Times, Serif; text-align: right">3.05</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Prior Month</FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">42,472</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">1,416</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">554,438</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">17,885</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">92.96</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">2.21</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Recorded oil cash receipts from the oil and gas
+properties underlying the Trust (the &ldquo;Underlying Properties&rdquo;) totaled $3.1 million for the current month on realized wellhead
+prices of $81.06/Bbl, down $0.8 million from the prior month&rsquo;s oil cash receipts.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Recorded natural gas cash receipts from the Underlying
+Properties totaled $2.4 million for the current month on realized wellhead prices of $3.05/Mcf, up $1.2 million from the prior month.
+The increase in recorded natural gas production was due in part to the first month of associated production and revenues received from
+three newly drilled wells in the Haynesville region.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Total accrued operating expenses decreased $0.3
+million from the prior month to $2.6 million, and capital expenditures decreased $0.1 million from the prior month at $1.6 million.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">As previously disclosed, COERT Holdings 1 LLC
+(the &ldquo;Sponsor&rdquo;) has established a cash reserve for approved, future development expenses associated with ongoing Haynesville
+drilling, to account for the recent uptick in oil prices and the potential for increased capital expenditures by operators of the Underlying
+Properties. Given the expected increase in spending, the Sponsor has notified the Trustee that it is withholding an additional $0.3 million
+from the current month&rsquo;s net profits to be added to this cash reserve. To date, the Sponsor has established a total reserve of $2.0
+million for approved, future development expenses. The Sponsor will hold this reserve to fund an expected increase in development expenses;
+however, if those expenses are ultimately delayed or are less than expected, or if the outlook changes, amounts reserved but unspent will
+be released as an incremental cash distribution in a future period.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">As previously announced, in September&nbsp;2026
+the Sponsor closed on a partial sale of non-producing acreage for $0.3 million, free and clear of the Trust&rsquo;s net profits interest.
+The sale also includes a future capital expenditure carry from the buyer. The sale proceeds attributable to the Trust&rsquo;s net profits
+interest, net of customary transaction and legal expenses, will be included in the November&nbsp;2026 monthly distribution to unitholders.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><I>About Permianville Royalty Trust</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Permianville Royalty Trust is a Delaware statutory
+trust formed to own a net profits interest representing the right to receive 80% of the net profits from the sale of oil and natural gas
+production from certain, predominantly non-operated, oil and gas properties in the states of Texas, Louisiana and New Mexico. As described
+in the Trust&rsquo;s filings with the Securities and Exchange Commission (the &ldquo;SEC&rdquo;), the amount of the periodic distributions
+is expected to fluctuate, depending on the proceeds received by the Trust as a result of actual production volumes, oil and gas prices,
+the amount and timing of capital expenditures, and the Trust&rsquo;s administrative expenses, among other factors. Future distributions
+are expected to be made on a monthly basis. For additional information on the Trust, please visit www.permianvilleroyaltytrust.com.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><I>Forward-Looking Statements and Cautionary
+Statements</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-size: 10pt">This press release
+contains statements that are &ldquo;forward-looking statements&rdquo; within the meaning of Section&nbsp;21E of the Securities Exchange
+Act of 1934, as amended. All statements contained in this press release, other than statements of historical facts, are &ldquo;forward-looking
+statements&rdquo; for purposes of these provisions. These forward-looking statements include the amount and date of any anticipated distribution
+to unitholders, expectations regarding future development on the Underlying Properties and expected capital expenditures related to such
+future development. The anticipated distribution is based, in large part, on the amount of cash received or expected to be received by
+the Trust from </FONT>the Sponsor with respect to the relevant period. The amount of such cash received or expected to be received by
+the Trust (and its ability to pay distributions) has been and will continue to be directly affected by the volatility in commodity prices,
+which can fluctuate significantly as a result of a variety of factors that are beyond the control of the Trust and the Sponsor. Low oil
+and natural gas prices will reduce profits to which the Trust is entitled, which will reduce the amount of cash available for distribution
+to unitholders and in certain periods could result in no distributions to unitholders. Other important factors that could cause actual
+results to differ materially include expenses of the Trust and reserves for anticipated future expenses. Initial production rates may
+not be indicative of future production rates and are not indicative of the amounts of oil and gas that a well may produce. In addition,
+future monthly capital expenditures may exceed the average levels experienced in 2025 and prior periods, which could reduce the amount
+of cash available for distribution to unitholders and in certain periods could result in no distributions to unitholders. Statements made
+in this press release are qualified by the cautionary statements made in this press release. Neither the Sponsor nor the Trustee intends,
+and neither assumes any obligation, to update any of the statements included in this press release. An investment in units issued by the
+Trust is subject to the risks described in the Trust&rsquo;s filings with the SEC, including the risks described in the Trust&rsquo;s
+Annual Report on Form&nbsp;10-K for the year ended December&nbsp;31, 2025, filed with the SEC on March&nbsp;23, 2026. The Trust&rsquo;s
+quarterly and other filed reports are or will be available over the Internet at the SEC&rsquo;s website at http://www.sec.gov.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>Contact</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">Permianville Royalty Trust</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">The Bank of New York Mellon Trust Company,
+N.A., as Trustee</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">601 Travis Street, 16<SUP>th</SUP> Floor</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">Houston, Texas 77002</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">Elaina Rodgers 1 (713) 483-6020</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>tm2627850d1_ex99-1img001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 tm2627850d1_ex99-1img001.jpg
+M_]C_X  02D9)1@ ! 0$ R #(  #_VP!#  $! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0'_
+MVP!# 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0'_P  1" !O 9\# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#^_BJMQ]^,
+MEMJA)B>_9/\ (^M6JJW7*@=]K_IM_P#U5$_L>_[/][1][_N+'W?^W_@_[>!1
+M4Y1B]G.'X3BT_DTG^>A^>W_!1[]K'Q;^QC^S?JWQI\%>']&\6:[8^)/"VBP:
+M1KGVL6,BZYKEEIKR,]KJ&GNI07!^\TB_-D!3R?YX(/\ @XV_:92*/?\ !#X3
+M[]NURCZT(MT)-LZ)_P 5(<['@8L.@W #C 'ZZ?\ !>;_ ),(\2>G_"7>!O\
+MU,- S_3-?PWMV_X'_P"C9*_K7P0\-^"^)^!<1F.9\-+%XNEQ7B*<LS;E:G&I
+M%QJ*RFE[_-**=KWEH[:'Y?QAG^<8'.L3A\#7^KQ5"#C5T]Q12D^EO>2<;;)O
+M8_IN^"W_  <!_M$?$WXQ?"WX<:O\'?A9IVD^.?'/AWPQ?WUH?%#ZE;PZKJ5M
+M S60MM2U"WW%-XD%WY*D;/+\P>9L_K5M=OSE00#@D'& S/(S$<!N2W1N.A'4
+MU_F=?LG3)#^U)^SC)+)%#''\;/ ,[2R3>24\G4V/R_WL[CGTP/6O]+JUN(Y%
+M66*2.2*7,B/'()%(:20X!XP!T'8X*C&WGX7Z0'!W#O!O$&387A?+OJV%Q6'J
+MRQD];1G&,7%W;?VFHZN_O=;:>MP1G.,S?#8B6,S!8BI2DHNG97>KUVV3UT_!
+M7OK44U6W#\OUIU?@Y]T%%%% !1110 4444 %%%% !1110 4444 %%%% !111
+M0 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%%
+M!1110 4444 %%%% !4,O;_=?_P!EITC[,<9SG],>X]:JROOQQC"O^NWW/I65
+M;X8?]?\ #_\ I^F5'XH_XE^:/Q3_ ."]7_)A'B/_ +&[P/\ ^IAH%?PUMV_X
+M'_Z-DK^Y'_@O-_R8/XD_[&_P/_ZF'A^OX;F[?\#_ /1LE?WM]'&+EX=8A1W_
+M -:,6_\ P'#S;_!,_$^/?^2@Q"[4:2^Y(=%*\#B6)YX9ESY5Q:LL=S"YQAH9
+MQ^_A;(!S!R2!NY5:^O?@7_P4 _:__9UEB/P_^/7C=-.L$@D;PYXHU/6?%V@F
+MQM;F.:2V73M6S]AA<?),-*_UX\L7'^HMZ^/J:R;ED/\ =BS_ .1[?_"OV+,,
+MHR+/*&)CFF6K-H4\/B)3P#2:K2IT:DX2M)-?NIQ5;_MSH?&TL37PE6E7PW\>
+M%2$8?]Q)QIR[?8G(_OY_8%_:&_;0_:"^"WPQ^+GQ(\(? F[\(^/])DU>+4?#
+M.N>+="\36]L-1O+=9[_2[S3-0TY9KORU:%(#$$:*8RJPD0C]'5U3Q4+N5$\*
+MNT;&(/??VSI6UE&_:$#V=G(RKD@&19&&5P$).[X"_P""/C*W_!-_]E;'4>"-
+M0!]O^*L\08[?AWZ"OTU1LEAZ!1^A'7OT_#I7^8W%$:$>)<XI8+#PR_#8?'XN
+ME'!TTTE3AB*M.G%\TF^:"C'GMHY+1)62_HK+/:K X.6(O[6M1A+75W<%)_F[
+M>7S/&O'GQ(\5>"+*74Y/A=XF\4:=%&[S?\(U<Z7J=Y D6TF1[(,LC@[B4Q@#
+MRW)ZC'RO-_P41^'=E+):7O@;X@174#%)H;NVTN"\BD!(9+BT$F8-I&$W<OAN
+M3MX_0V3^#_KHO]:_G,_:-_Y+K\4O^QKO?_08Z\FE#GJ1CWO^";\^QZ1^C[_\
+M%&?ABQC3_A"/'+>9(L?EF#2R&W!CR"^.-OZU]$_ ?]HSPG\>DUX^'-,UO29]
+M FM(9K?6H;2/*WGV[!MC:DE@HL7\T2< M%L/WJ_GNK[E_8&\96_A_P"+]_X;
+MN[@00>-O#T^FQKC/FWME,EQ: >A'FS+G(QOYXKHJT.2G*5MK?BTNR[@?MRA4
+MC*],L/Q!(/ZBG5$@Q))A<;@DC-V9R#&1_P !6)/SJ6N, HHHH **:S;1^?Z>
+MM5E?>6]L?KG_  _"IG+DBY=K?B[ 6Z*KU'(^S'&<Y_3'N/6L/K"\OP_S N45
+M3C??GC&,?KGW/I4E'UA>7X?Y@6**KT4?6%Y?A_F!8HJO2-T/T/\ *CVRG[NF
+MOZ:]P+-%9B]7^O\ 4T^GS<GO=OUT T**IQ]_P_K1)V_'^E+ZPO+\/\P+E%4X
+M^&_SZBI#]YOP_FU'UA>7X?Y@6**KTQGV%??/Z8_Q_&CZPO+\/\P+=%59FW(#
+M]?U!IL7W!^'\A1]87E^'^8%RBJ]&_9VZ_P!/Q'K50K*<E'36_P""OW L4549
+M]Y3C&#_,CW/I5I>@^@_E6X"T5')V_'^E1[]G;K_3\1ZT 6**J--DKQCK_3W/
+M_P!>K*MN'Y?K0 ZD(!ZBF2=OQ_I2+T?Z?T-)M13;V0#]B^GZG_&E  Z"J7\?
+M_ OZU=7H/H/Y5*J1D[)ZOT_S 6BF2,%0D^G\ZKH^\?0_S_\ U?YS3G+DBY=K
+M?B[ 6Z*KT5E"LIR4=-;_ (*_<#^6[_@HK_P44_X*6?L0?&S7=#NM.^%%]\(/
+M$>I2W7PG\:KX'OI[6716:%(-$UEK;Q$K_P!LZ3).B7SRC$@NH&C)0&O@!O\
+M@OS^WM#+*I/P;R"$D5/!.LQPB=,F5XB?$N6$F]2PR0I /5C7]D_QQ^!?PR_:
+M%^'GB#X6?%KPU9^*/"7B*SN+2ZM)55+ZTDN;>6U34M%O@?,TO6+/SS)9ZE'^
+M\MWR1@.U?P0?\%)/V+[+]AS]I.\^%GAJ\US5?AYK?AC2O&/@#5?$9$NL2:3?
+M2WFFZKIU_?#_ )"MSIGB+3-55]4.#=K<1\?NZ_JWP9S+PPXRP]#AW./#FGAN
+M(U3J1I8B"2_MB6&ISJU<2X<\O9R]E2E7E%:74N5\K:C^8\64.),IDL7@<WDL
+M'*SE&2LTIODBO-<TEJM#K/VH/^"KO[57[6_POO\ X3?%4?#K_A$KR^TW5KP^
+M'?#-[:7WF:#?6VNQ8DN]3U'D'2CM,?DX^;?YF4\O\TLY('.(4>U3>V9?+@O+
+MPKOC_P"68_>':._/I@"_<7ZM_2EK^J,AX<RKAK#5L+E.&65X>M+F^HQ22DW)
+M2>BM=IKF;ZM7/S;$8K'8J3EC,S^L2>]%_;__ &?B^6@4UC'MD5Y)4W07&/+^
+MZ<029W_0'Y>_)]Z;)L&&?MG'Z9_+@TQ;NT#99PK0QM*$=?W4RK)$KH[_ /+,
+MG(V>I)XXKW84_;.5+_GY3J1^^G-?J<K5W'RG3?\ X#.+_0_T%/\ @CO/&_\
+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
+M=^)_QN_8:\&>.OB]XWUGXA^-;CQIX^TV\\3:_):2:I/;6'B&=;6TN#9Z?IZ
+M6BR,B!XY& 8@.%PM?@O=H&_X(&^&SW7]H>QS]#XRB_J*_:#_ ((%ON_X)S?#
+MP=QX\^*/T_Y'34O\#G_#%>=X@9'DF"X+XLQ6"RREAL32\5,=0I5XTX1E3P[I
+MS7L$XQ322TY4XPU34$U<[^'Z^)J9IEL:E^1\,89N[ZJI&SW>[_X<_:M_]6/I
+M_P"RFOC?]OSQGXK^'?['_P >?&_@?7=0\->+?#?PV\4ZGX?UG2Y;2*]L=3M-
+M*ENH9H?M>GZA&Q2*"8D*D;=/F(R!]B3=(_H?Y+7P?_P4P=%_80_:?#?Q?"7Q
+M5M^HL7_H3Z5^&<-T,/B>).'*&*2EAZG$.2*I&23C)+,\(TFI)IIM).+335TT
+MT[/[#,JLZ&7XVK3^.&$Q#CZNE-??KI^:/SM_X(&?M#_'']HCX5_M!:G\</BA
+MXB^)^J>&?B7X<TO0-1\0R6+RZ?I6H>"-/U:6&W^Q:9IVT337"B7S/.R;>/8$
+M^?S/Z @ 05_N@=O[Q8_SZ?SSBOYF/^#:U7C^#O[3SMPI^,7AO;_X0&EY[8]!
+M_G-?TQHR !F/$@//;C/N >3^M?5>+-'#X+Q%XLHX.E3IX:EF5.-.G3A"G3A%
+M8:B[0A3A3A%6O91A%+L>+PFZ^*X<P,ZK;<JF(;;NW92JM.[N_BWWT_#F/'-S
+M=V/@WQ)>6$\EO?VN@ZM/930_9S+#>6UC)<6UQ']I(B+P21;U!!SUQ\H(_A(^
+M"7[2?_!7']I3QUXX\)? 3X\?&+QUJ_A2VO?$M_INFZOX+T>VT[0VU*\T[3[=
+M6U<C[2%6RND06^3%Y>)<F6*O[L?'P67P/XO1"-P\,ZZZCKD+IET3Z]B?>O\
+M/-_8T\9?MK^$/BG\3=1_8:TGQAJOC:[TPVOCQ/"GAW1?$+1>&(O$^HF WL>L
+M9\AGN'N#9_9_]:8IS*<PQ5^A^ ^ PN8Y3QEF%.'"TLPP*P+PLN,H0EP_!UL7
+M3HUWCI2@Y0;I2G'#.+@WBW13;3:?C<:U(0JY#1J/&\DZF)YO[.;^MOEP\VO9
+M6M?5+GNOX?-V/T>;P+_P<)MDIXD^.KQQN8(Y/^$P^&G,:QQ2JG;_ %9G8>^Z
+MOKW]A/P9_P %F;7]I#PQ+^TOXB^+3_"0>'O%XUF/7=?\&:A9MJ1T=QH9SI1_
+M<NNI&';Y_P#K&*>5_JY:^11\=/\ @X394(\!_'5POFQ[O^%2>#(5)2ZN=NV3
+MGSAY+0\_P\?WJ^N/V'?BW_P66US]HWPI8_M+^$/BSIWPH;1/%SZC/KWP\\,:
+M=8G6H]!NGT-6EM"NYC<"7:)#@2&,)RS5][Q%1S6.5XYM_1]<51::R%P>:?&O
+M]U3O'FOK5NM*/M6]3P\NEAH8VA*G_K/SIRM]?O\ 5-823]K\F^3_ *><A_4;
+M*"6AP1E7,C*2!NC"-&YY[+YJM]0!WK\GO^"FO_!,SPM^WIX<\):EIWBUOA]\
+M5?AY9:YI_AKQ,MM]LT?4;*_LX9GT;Q/9#F73VDM(1YV6DM4EN-BMN53^L]03
+M*K% Q7^+AAG/W<]C_D]#7\GY-GN8\-9GA,[RK'2RW'X&HY4,9%Q3I^UA*A5A
+M[S4;5Z-6="2;UC5:6K1^HX_ T<SPE; XA7HUXI32O]B4:D=M?B@C_/>\#_\
+M!+G]IJZ_:^\$?LI_$?X>ZQX8?6M4M'USXAZ='=:GX+L/ 6CBWU34/%6EZK:L
+MJ0W:QZ>I\/6\S+]FE?44RI$F/Z?M4_X(8_\ !/V\T&^T_3?AAK&CZU/92)8:
+M]:^*M9%]8ZI);2+:7\MN)-H>UN[S[7/'CYUBCW$8PO[.26T#2*71&VGY5Q@C
+M.!QTZX'3/2F-L#J7&Y8GW8V%@B['1CP/E(W GJS -C(#&OO.+/&WQ"XKKY5B
+MJ&.GDD\L]G3G1H3Y(YHHN*JUYN\FG[.+J1BU+K%W4W)>!E_!V49?2KTHQYG7
+M3:;OIJWM;7SV6ET[Z'^8Y^V!^S[XZ_9 ^/WCWX">-[LZCJ/@^\5M)\4JU\\/
+MC+PQJ+SW.A^)=UZ PNKF$R65V% 97L4$F,**^1+[6756#2;Y&#1Q^HW8+#/'
+M7:OU_.O[I?\ @NO_ ,$YC^U-\&&^/?PQL9Y_C?\  ?P]J5Y#I-A$(W\?>#M]
+MG>ZKX?<@L6OK%;!+O2N<(K7:=\5_G_:GX@=(IPPD1RUX+B)_OK?I<6\-Z;G'
+M_,1CEC%I>^OV2'%?U-X>^(6&XVR##5*N8.KF.7TH4L?0=O?JQM3G)6T:<E[6
+M-MD^71P9\)G.15,KQ<HT_P#=ZT:DGZ<DG'[G9;:GWU^RQ^T-XV_9Z^)G@7X[
+M> KF2/Q'X!U037&G$9M/$6CNR6>I>'9^_GZHEQ&MISPT4O/%?Z97PO\ %\WC
+MSX=^#?'5SI5[X>G\7>$_#_B:?1=0PL^C3:OI%E>-IL@&=RQ-,0K[B6()(4G;
+M7^:7_P $W/@S%^T1^T7\#_A+>0;](\:?%73I/$,[$>3;>&_#BIXF\0M(3@!G
+MT;2KWR\G&5.1Z?W(_'_]M?4/#=U<?#CX,>59Q^'HDT/5_&&H:>+^V-Q90I;R
+MPZ/;CK<06JQ%[H\P--"W0BOR#Z1U?)YX[A6%&"^ONAB'[2S35/DE:%[6ES.-
+M:2BVW%1<DDI-OZ+@"@X8+'RZ*I'3_M])O[FM3[3^.W[2_@GX'6DMKJ3RZUXM
+MNK(S:5X5TV S32.=N9[R08\BV)EB8L3DH&P,Y8?B)\7_ (H:U\8/'-_XWUR*
+M.TNKVVM;6/3[2Y,^G64-KYHCCMT.3%<LLBB])),C)"2<J2?FSQ-\7+S7_$6H
+M3O=W6LW\EY*UYJVL7O\ :&H7$\C R;[G/RVZ,K&WMO\ EW5G48W5UVCZA_:%
+MMYCR1O*H0R+'_!OW;<_7:<?0\>O\Y05I+^NA]V>T_ _5/#>A?&#X>ZWXQN8K
+M/PMI6O17FLW<OVW9!#$CF M]CSP;CR\^8.B_)SNK]M(OVM?@  QD^(VD*S2.
+M)!'!JKD2JQ4JX$!VXA%N0.F6;: !@?S\T5I."FK6N^GWWV*A\2^?Y']!7_#6
+M_P"SW_T4C3?_  $U;_Y'I\/[6?P N+JRLK;XBZ7/>:C?6VG6=IY5W%)<W%VY
+M1%0742!PI'S%&^4LH8$."/Y\JZ'P?J%II'C'PCJU\D;V=CXH\/R79N/^/:.U
+M.L6/G23?[N$*_P# JPG0Y(N5MK=.[MV7<V/Z>HG5Q\A!0HCQL/NM&X)4KZC@
+M_ABHKDG,2A<AV9&YY *_>'NO7Z9Y%1Z?>6VH6L-Y97,=Y9W4:7%K<P[3!);R
+MEO+$3*<-M"X8D!N1D \"S)&KE=V,C=C/OCI[\#O6$K<L[[.$U]\))?BT5'EO
+M[RO%J2:]8M?FS^1C_@X6^%GQ.\>?M _L\WO@+P%XQ\76VG?#/4+2XO\ PQHX
+MU9K*ZF\:ZCFTO .;>WNK);TR9P9HHBPR(P3^T/PD_P""9/["6J?"_P"'6I:Y
+M^RM\+WUR_P# GA*]UB6^\,K;7\VI7.A64EZ]\ 1NNFN3*9=W(8DYPXK]-=23
+M3XHOM-^;:&"!6=KJY^S+';KQN9I+@$(&X)*CG !Z"N67Q[X!B)2+QKX/3&%(
+M77]&1LKD8DC28&,CG (!))X&#7W.+X\SW%<*\,<-8&IC<)'A^IB:E&OE]6HL
+M3+ZQ3FJG+"G%25HN4=92M&=1Z)W/!I9%@Z6*J8A4E7=:4I.DU>[=[[WO9/FU
+MOI'N?'UM_P $Q?V!K*6.>#]E;X1^9&RRHLF@^<BS1,'BE-J'"3O$V2F\,4R=
+MH!8D>_?%#X,>'/&_P1\9?!'3++3_  YX?\6^ M<\":='IMFMKIWAZ#4-)N;"
+MUNX-*0%%ALIGMV.,/'A6R 7>O5M-\2:!K<S1:/XBT+5GA7=,FFZC9W\D*OG8
+MSFUED\@.$?'F %]C;/\ 5OBE/XV\%VL\EM=^+O"UM=0-MEM[SQ#IUM<0G)X>
+M*XF653D,"-HQCJ>WR&(S?B#%5J.+K9CF^)K8#$8?$0IYU*M5P*E1K0GSUHU%
+M-748-TW+E4JB497@Y)^@L!@X<SEED4G&46U&*TE%JSM;1MK6_31:'\-G@G3?
+M^"H/_!*[QI\0/A;\-?!&J6UCXEU6TU*[UFR\-6?COPYXJAT6*ZT[2M?T>\O!
+M_H,UY:SL=2MD&2PM%?\ U2Y];7_@IS_P606+Y/#6I$E]S'_A3VC$_-TQD\=^
+MG?KQ7]G,7C3P1?W,%K:^*_"5W>S/LM8+;7=*N[J27&=L$22N[,0/X58G@8-7
+M].U30-6N+RVT[4=(U.6RF\C4$L+BTGFLKHEP5O$@):&23RV*K*%9O+D ^ZV/
+MVR'C1E.-G+%YQX9<%9]B*M'"TYUY0E#GJ83V;]I&W/JO8W^)R4?=NUO\B^%<
+M7#$5G@^(IX2%=59++DDXR7+*=FE)2]SX[)?8N]+G\YO_  34_;&_X*$?M!?&
+M;QSX&_:8T>_L_ P^&/B&\L6/P_L_#LDFL);3);11W]IDJ6+ 8DYR55"-SFOD
+M'_@BQ^S[XDF_;0_:#N/C'\&Y6\-WGA/Q?>Z7<^-O"MA=Z'=W,_Q#O=DT=]?V
+M%XMS*8EB/R-!Y88%A,6C"_UZZG>Z3HUH;[4+S3]-M(FV2:AJ%Q:65K$9"H1'
+MNKIXTB\P\+AP&P02,#,$FN>&[&!-2NM9T+3[6ZCW1WTFHZ?!9W*CGS+>[D9(
+M[E0&!+!R%W#KO)/SV*\4)PI\5TLKX9X?X:PO%>%PF"E'+>>G5PD<)B(XCFPL
+MUR2C*MRJE5E&=W344N3=^E3R&<X914Q>8O$2P=2M)PMI4;HSCK=O2#?-JK7[
+MGEU]^SM\"K^&XL[GX-_#9XKK[1'-+_PAF@K,#<03PS$2#3H)8D\J1H8GA=R?
+M.) 4 NW\IOA/X>?'/_@E3_P4_P!6G^'_ ,._&7BWX!?$K4=*L=5NM"\/7UWX
+M;L?AKX_\6Z>+.-GN"(;)/A[=I>>'X6LR/-%JYD($45?U[?\ "?>!,J@\;>#'
+M)5G4'Q+HID95YD<1BX);8",[0>N#CN2^*/!1AL;Y_$/AD0:G)+:V5_)J6EJM
+MW,K1J\%K(SB.XD0R1"1$)**\98?.,_.<+\;9QP[ALZR[%49<197GV$Q&%Q>2
+MSE4Y,7&=&JL/))N=IX6K*&)YH).?L(\[;BI+LQ^1TL=5PU?#U7AZ^$G"I"LE
+M?EY&G+9+XHQ:U>EWYG\GG_!PA\-OB/\ $WXW?L^:MX ^'_BSQIIUK\(M5>>X
+MT30_M-M90GQG#=QS7['!M2T$O[G('F""4_P8K^C6;3=4D_8FET=[*X;6F_9;
+METQ-,=3'>_VK)\,7B@L_)Z"43))&5.<%,8/('U>+.UN%1S'#(J!1#N6':J=1
+M)'Y?.V3@KN8J ,JBY.ZGJ.K:)HT7FZMJ6F:7!]T3WUS:V<6!@,$:Y9%8#<NY
+M5!(W#<.1DS'C*OFW#? /#E')88'#\"YI5S6G1C+FG5E*<JMG&%/ECRNG!7BV
+MFHMM0MICA,DIX+,,VS*>/>(K9WA_JGLVDHW<'"ZNVVTG)^6NY_+[_P &['PQ
+M^)7P_P#$O[3C>/O GB#P;_:6C?#9+*;7+#[+#>7$%]XH:6337/%PH6ZMS<Y_
+MU8EMA_RTKQG_ (+X?"GXH^.OVNOA3JG@OX=^+?%FD6'PL>&XO= L_M3QWJZY
+M>,T4O3R[:9(F,AXWBV.  N*_K+B\<?#R(N(O%_@Y"P4NP\0:)$S]=I.)\. ,
+MXQR,G@9YMP>)?!VKK<M;:]X;U..QMGN;MK?5=*O8+:W&"\MV8WE$$8"DH\FQ
+M&V/E@%)KZ'#>*V8P\0GXB4\G7M\3AJ>&]GSR5-+#8:5)OF]F[^[%M-)V>Z5[
+MF4N%XK(Z&3*LZ"PV*IXA55%WBYXB,^MK<U^57LG=6UT/X]/^"X/P@^+'C#XN
+M_LMWWA/X:^,?%MIIW[+NA:5K5UX:T$7!T[5(_$-__P 2:YDY\CR%AE>[&<E=
+MHZI47_!:WX._%CQE\=_V:)?#'PU\5>*+&T_9M^'.B:C-8:=>W&GV>IP>*[^*
+MYTF\^Q\6L]G:->"02\N93M_U;BO['M/FT35[2*_LI-/U.RG$36UY:-:W%LZ)
+MN\H0R097:F6&,X!.,GD!-3U;P_I]S;P:IJ&C6U[=J4L;;4+VSLY[I5P)%M8[
+MIE><Q^9'O6('9YB!B \>>_+/&;.<IH\)P64Q3X8H<6X6E*&->"FUQ3C:^-J2
+M>(C"]'DE74=&U47N2:YK'-4X3HU)8[#U\?*M1JQPSG1DK/\ =5J=6/-KLI4U
+M+O=(_*[P)_P2!_X)^ZQX(\'ZEK/[.7A\ZO?^%O#]_J;W,VL1W+ZC>:7:RWWG
+MQ^<-L@N?,)!VG))"XP3^?'_!5S_@F+^SC\'?V6K_ ,6_LR_L\K:?$[_A)](T
+M^SN/"L&L:KJR:?="=;U(;(22>=Y@5,# P5[\U_3'=7%C80R7-S/;6-C%'YLL
+M]S/9VUC&A&0TLDC)L4G@,6"9/7H:Y:3QUX%D4M)XP\%M;!) "/$FC2(6&WY1
+MNGPK XX#9R". *^5R7Q2XRRGB;"YS_:^*Q%*GF$<PED]7/:F*CB_8UJN(IPE
+MA_AJQH-PGK%M+#QJ:.-SU<5D&7U<NKT</.-"I#!UZ<*RDN:FG0E&4FGK9J]^
+MRDW<_D_TWX3_ !,MO^"#/BGP&WPY\;GQJ/C3<W*^%1H-Y+XDDLT\?6[7#KHE
+MW]T$R)_J^N1N/"U^LG_!"7PEXJ\%_L(Z7HGC+PYK?A?65^*'Q'F;2?$&F_V3
+MJ<%K+J=N8#/8_P#+'(5\>M?J_:^*_!>IW,.GV/B3PI?RW,+&VLK36=(N[F=H
+MPI<06L4S22LK,F_8&90RDD KF_+XJ\):).;._P#$7AW2)ECB(M;S6-+L9U'S
+MD[K>65&4?,""5R01[5V\0^(F8\19-G&38C+E0EG/%E7BR592DW&I/XJ:CR_#
+M)7UO9=%JVN/+<@>"S#!8IX^5=4<@P]#V3M:?[V*]HK?9UNGNVEJ=#< B/&1R
+M&(^8!B_RA44$8.[)&2>#@$8;C^0'_@D7\*OBGX6_X*=_&KQ9XJ^'?B;0/#E_
+M;?'4VVOZI8_8],9;WXE:>5=9./M"S!$)S_J\+C_65_6T?'W@:0J5\9^%Y"K*
+M (M?TB7+,2%0[9B5+\A<%2><'@XMP:OX8DU*'3(=1T5M5FC:[BL(;FTGNO)<
+M*SS1)&1(BR@*=Y!$FT%2P0FO!X=XIQ/#.6<3Y>Z:E1XNPU#!592DX<L,/7IX
+MF'+>#51J5):)I)7]Z]D_3Q^40S'%X3&5;\N$DY::W;5O1:M:_F5/%?AW2/&&
+M@ZWX6U_3;?5-$UVQU'2=3TRZC22VU*QO;>6WFLW5O^>R3&:0KR'MR> -P_@&
+M_:E_8Z_:>_92^/'QW^"GPO\ #?Q)U3X?>*KAXK/4_"=E>#1O&OP^O[NX\0^%
+M=*U/[&2!_P ([KT3^0')P+>ZV$C=7^@[<7-K;QR3SR006\2$S2W,L$$$ 4?-
+M)<RRN B@#<.0,!MQP5QCP:MX9O+0:I;ZCHM[IZ[P=7BN=.ELT:,X=3<HQBC*
+M8&=SD\Y)S7J^'?B#FOAU5S".%PT<=0S27M)X.;]VI.E5>)IU$K22G3:YG9)O
+MEA+XH1MS9_D&$XDAAH3T>&E&2:N](.,K=]X>>[MU/S._X)(_L>6_[)7[*/AS
+M3M9TF33OB=\2S9^/?B)]IANHKVUU&XM/L&C^'+C[2Q+GPKHMM;:8@PK+(TQ9
+M2C1,WAW_  7O\%>,?&_[&.D:3X%\+Z_XKUG_ (6OX.FNM*\-:;_:VI26J2S;
+MBMC_ ,M0>>.V#FOV13Q[X#RZ+XV\(J4P"%\2:('!Y!5XS< )TXXY^;(R!4J>
+M*/!=]#<7)\2^&;^SL@C7DYU?1[FULQ-YAA^U2B8K#YWE2F,N1O\ )D.?D)KR
+ML%QCCL/X@Q\1IMU<;/,J6,CEC:C"4Z=:<E&-[RM1ISM&T7:%-RDG>1TXK*L)
+M7RMY1=1BHT%;J_85:55WZ?\ +J_KY'\X'[-/[%_Q _:(_P""+UU\!YM+U'P7
+M\4'\3>)_%7@S3/$]A_84T?B#0?$5OJ&C66M0X)M+2^2*\A.!\YP20(N?RR^#
+M_P >_P#@K'^PEX;O_P!GOP+X!UK0=$\-Z[JU\='U#P#9>)EAOM6O9[Z]O]*U
+M.[/[W1-1GF:33O+)&(IBPZ5_<'%XZ^'IC'V?QCX,$(X0)XET4Q>C!%6X"#MN
+MV\G(/:M"R\4>$M4N$LM*\1>&[^Z=6<6VGZM87TCJ-NXF&UED.0",!@<_,5&%
+M;'W.!\7,90Q'$6&S7A;+<YRW.N(JO%%;*\RC-X>6(Q%.I1CSS]G[T:<ZJJTV
+MX0E&M33C.4*CBO'Q/#%&?L:N&QDL#7H)QCBHVO34H\C5FTO?B^3>SYMKH_BY
+M;_@J)_P64&2_A>X0DF.$_P#"I;*(FY:*4QC_ $3)(\I)S^\. <%/XL?KK^PI
+MXS_:E_X*"?LH_M6?#S]KFW/A[7?$4U]X3\%:C+X0_P"$<%GI^M^&KVW@OL?\
+MO*6=_:VSRS+\]FL@/_+QQ^]HM[9LX2UV@D &S0 '/S$$H <G'(&..IIZV\ /
+MRQP\]XHEBQC^]M"[NO'7'/J:Y\_\3,OQ^5U<-DGAQPED&9+$8#$X7-J,9RJ8
+M1X/'X7&57&/)9^WH8>IAY*5XN%::E[K=C#</UE6C];SRIF6'<:BJ8*22C6YJ
+M<HQO[W_+N;C5]8=3^$'X;W/_  5&_P""7VM?$'X3?#CP'JUE::SKUM?ZE>V/
+MA(>/O#7B.32;632[#Q)I6LL"/.U*T;=J-N>8C':J.F*]<;_@J'_P62+ -X8E
+M9L$@M\)5BE ?GY4(/F=,8&-O?[U?VR2Q1,!\EN<9YDC$F.F=N[)!X&<>U01V
+MMHS.##:R;<$A;=0J#G.[Y<'./3C!]<GVY>,V4X^K/,<W\..#<VQU:CAJ=3%N
+M$H<SPWLN>>B<6Y0HM.\KJ-E>7*D^)<(XNA*K#"\05<+1JS4_[/2]V2C-5$MT
+M_=MS72UY==+G\]?_  2N_:P_;N_:7^*GQ'\%?M7:)?6G@FS\ _VCIDUW\/QX
+M166^GU :9<VMK>$9O9GBOHKH,"?LJ63<?Z1BOR U_P""?_!0G_@E/^T9\2M3
+M^!&@:GK6B?$$ZMIOAGQGHFB6?B7P[XM\-W6H/XITNYU*UO0#8:SILUSJ%IJ*
+MIS<L(2Q/D)G^Y4):(2(HX$R>0D2IG&<9VX!QS@G/MUIQBBDZK!\O]Y0W7TZX
+MZ<_A7@97XIX;+<[SC,<MX-X5J</\0T:-'->'G!O"UGA*CQ&'E":C>,J>*C1J
+MROI)48+ECR\TNS%\-RQ4:-\YJ4<705J=9+6*:M-6;V<;I6:2<GO<_B<?_@J)
+M_P %DO-VKX<N0P;=($^#VCB(-.D5S^[?/[S_ %YW>F1V:OL+]A#]O3_@IY\7
+M?VDO#/@[XU^&;Y_ 4^B^*[ZZV?"VTTU1J=CH%_)I@:^LCNAS(9-L;X\[:57@
+M-7]4'V6'^[;?]^Q_\34L5M$-V(X6Z?<7;CKUQC.>W7I7J9GXJY!C<#B,+0\*
+MN#L!5K1C&.*IJHYTDIQE+E22?OQ3A=--*5UL9X/AK&8;$TZ]3B"KC80YF\--
+M)1J7A**NU)OW&U/UB7J***_&#[$*C<J"H/?.#Z8Q^?\ GO4E12*"R$]@W]#Q
+MVSQW_P#KTI.*MS;<T?O<E;\;$R<TGR?%I:_JK_A<I7<*3-'$XWQ@L[*R!HI0
+M898!#(6R%#FXW#((;85/6O\ ,#_X+3?LDW?[&/[=GQ-\&>'M,N;3X>?$QG^+
+MOPNO)(A'9S6WBJZ?^U],LF'#_P!D>([K5%F(_P"?V(@?-7^G_/ARG$9=6+1&
+M0#8DJ@@8Z'?Y;2%<< !B2,9K^9C_ (.+_$O[.;_"OX4^"_%?@#PIXY^/=]K%
+MU??#KQ%J$"S>)_A?X?CMK=M4\3H0%98KJ9[6VC!)#F,G (.[].\'<;F,>-\-
+ME5*,YT,QKT%-1<=(X=2Q<:DKN*Y:<J3YN5\S4DHQD]%X7$M&E#+J^+G95Z5&
+M?*^[FO9M?=)V/R>_X((?#J"+XY>-=5GCSJOPT_9L\9ZE:7'>Q\07T-N4O?<P
+M0-<?BV>O%?H9XZU&;0_ OB'4[6?$L.C7"6]R?^6D5X\\MQ>]S_I<S2?]^OPK
+MY>_X(-:;=W/Q8_:>U&UTZZFL;?\ 9YU*P-Y%9_\ 'GJDUK.(;&;U#&&6YB&,
+MD3OSZ?5/C'P[<>)O!_B#PRC16VH:EI-SIJV\YLK-(M4DFMTA:Y:[Z0W#/^\N
+M(_\ CU5-SY\Q:^B\>:^)J>(.+I5'>%'"8:,E?;W--+Z7T>RT2WW/-X-I\^1T
+MZ_:M4_%M?J?!_A#Q S0VC&XW!U67SO\ GH\CN7/_  $@>WS=.]?4?A?6]T:/
+M]H^X(OI\VX=/PQV]_6O$/&O[+G[1OP0U#2=.\;_#+Q#<P:I917^E:MX.@'C'
+MPY?V:Q6[[H-;TG)DFB2Z@-Q;W'_'N956'EI*]+^'OAO7(-1L)O&WA+X@:3X2
+M(4ZQ<V7@_6?MQL4DB:_M+/[1_P 2O^T;G3?MWV7[?T\J7R/^6U?C4/B7S_(^
+MI/HJSF\^%9/,W[@/PZ^GKZ5:K>7PO97VC7'C+X:7FK>+/!4VOW>E2>;X8O+3
+M5_"<%O':KIECXBDD_P")9_:5QITD.\Z7]W[(QNLY@K";:&D16D812O$?-?+@
+MIC(*8_=XST[_ (5L!V/P]T[PCJWC7PS8>/=9N= \'RZM;MKVIV:WOVA+*-)3
+M);^;9Y\JWN 2+AI <JBE!PU?8'Q:\'?L26]II</@7QCX@35;V/[%IFF>"XKW
+MQ':7+S;K:U6_LKP#R9;R2XD8% /-,4N\#RUKX*D)5))%(+A&18_)\UI/,(!"
+M_P!TC S_ 'LC'(J_-IVJ:8UE*]I<Z;/=PQR:7</#]CNC>P'SXKNPON?LWV7:
+M/.X)D\^+^Y36_P G^3*A\2^?Y']!/[,T6E^'OACX=\ 6OB>#Q'J?@K2[.PU-
+M&B6TU728;Q[JXTRQU73\!K-TC2X2 ,6$@AE"X\ML_1+#ACZX_0U^?G[$GP?U
+MSPGI%]\5-8US47E^(VFVU]?Z!.//DEND>:-=3N+T8-X;I6+1=XC$3T<U]_*2
+MOFEB&(E"@XP=I5&56]QN(S[Y/)-<%6W/_P!O._K9FQ^=?_!0[Q#?:9X4\":(
+M-4O=.\/>)/$QMO%(LYO),^DVKZ5O\P_Q>4EU-L]/,;UKP*V\%_\ !/[R(X;O
+MXD:S%,\$4$EK_:]["8Y%$)*&&T0"0,Y."[-C!"A<L6^M/VS/A'XU^*D'PXM_
+M!VB1ZTFB^*A>Z^DMQ9PQPZ1++I9G#QW?^N$J6TH C^[Y9W??05ZE=?LR?!34
+MM#N+&7X9^%;*]O\ 3#;W&IPZ5I)U"QN'M=L>H17(&-]K+O8$9W;\@,H.".C0
+M'YP_ EM)\,3_ +5WB;X77.HGPAH/@B[MO#6L7$=YO:[:XQF&>[/)(C!9H^>%
+M+\!:]2_9Q_9!^$_Q7^$OACX@^+QX@N_%'B.._O=;NXO$%W$L\YO+L$B.U(V[
+M?,.!)SAODR=V?8?@3\%_'NA?"'XJ? _QOHT&D6MY<ZQ:>%O%$%WI,TVO:;JA
+MNA9R7<46YHMA@A6,%&R)9@=NW->.^!O#O[=7PB\/VWP\\(>%/"MUX:T!KJWT
+MZZEFT6:6>%I T,K'^TM/V%U!(QYV[)^X!\^M^B:O_7_# <CXM^"/@CX*_M8?
+ML\Z)X,BU.+3]1U73;B4:CJ5WJ)+V]TBKY/VHD0\S2&3RS^\!C#\QJ!ZW^QCJ
+MFCZ1\3_VFAJ&JZ=IGVGXC7?DB_O+2T,_D:OXI,AA^U,ID\KS4\SRFPGF+OSN
+M7-7P=\(/VEOB5\<? OQ4^-UAX?\ #VE^ ;B+488=,DL8I+V>UGMI4'EV6I:@
+M&6#[*,>9Y( FDQYGS[.]\=?L)?"W5E\:^);"3Q?<>*-537M9LH%UW[)I]QXA
+MU*_O]7M!(NS,@^U:@T2 D! SL7#-Y9+Z6?:WS?\ 7_  V?VY?$/AO4_V>/%.
+MGVNN:3J5Q/<Z8Z6MI?6EX\B12R%P1:EO+^^N"Y7=@[!P]?'OQ-MM#\6?$/\
+M9Z^''C[6KG3? ,'PF\,ZE<0#4/[.C@:6-0Y,G\880J,D_(%'9ACV_P" W[#/
+MA:7PKHNL_&/1_$:>-H-3GGO=$;Q"9M)EBM&+6:3Q#'F+=*=V,J/W3989!&[\
+M9_V<=9^)?[0_@^^NO"K7_P )[+PAIFD7S6UT+.*T6R+QP6 ;<?.^S#S3@G,8
+MD _CI*RTO\]$!YGXR^ O[&FE>%O%5YH7CVQO-4M-!UR^TNQ?QZ)9&U..WB-F
+M!:$@L0X=2H&267H,D?-NO0>9^S/^S<<[F'QF\<,Q$9VG=KD !6?C[0"J*2V?
+ME[X!%?H7XO\ V&O@7%X;\2/X7\$W']NQ:#K$FA(-7($NMC3;D:<@')P9&<=>
+MYZ=*\*;]ECXN:[^S/X"T :9::/\ $CP)X_UWQ3::-?WOVN*5+G5K>:V9),_9
+MU#I8HQ67Y65E(..2I/W7\@/U4TSBT@'I"G_H<O\ A7F_Q@^#_A#XT^';+PQX
+MT_M$Z59:M#JT7]FWC64_VV.WN;* F0(^0!>OC*Y!X&-Q-?$'_"2?\%%+6,I#
+MX/\ !KD+Y4)FC\,SN)(S;QP%5MM3L)4W6_VK=]J$Q;"B/9M<-]<_ 34/C9J/
+MAG4Y/CEINF:9XD&M3_V:-,@LHD;1V^S_ &'S$L]3U ,5G%S@R"$X8X,O/EY
+M?F7\<?V<O 'PY^./P0\ :#_:HT+QT]NNNK?ZC>SWK0B;^SF(DM0/*.R$EBX(
+M9CA"?+8U]IZA^S7\,O@?\-?C/K7@NWUF/4-4^%OBG1KQ=3UN[O8)=+72[YD6
+MW2Z)%N(S<S";RB5D+Q!C\D9K-_:!^$_Q!\<_M!_ WQEX:T%-0\+^%)&;7M1_
+MM 69L[A+^1US$3F=3'&P.>(E52<>;S]E^)?#^G^+-"UGP_J7G1V6NZ5=:7>_
+M9V$4WV6[4PW06;'+!0%W#H&/4., 'R9^Q?XA\+Z;^SQX"TRXUS1;"2WBU...
+M"XU.SA=8(-;D,0 NF7?AI3DH"%R-W)0KX1^U]J6CZQ^T%^S3)I.K:;JGDZ[
+MMQ_9][9W?D[M2_=>=]E+&,R[9/+\PX;RWV8"M4/QL_8'\/Z)X%9O@K8^*-7\
+M6QRVEO%8:AXFQ9R:4UU&;IXXVV[!$CL<#.[(]#GZ.^#'['WPN^'-WHWBYM*U
+M2?Q?;V=O)<)J6J?VC9Z=J4D$7VY=/7_EDKR!!/\ -B4Q0_\ /*@#Z5\<^#])
+M\<^%M;\)ZX)_[*UO3FL[SR)/*<(2N,2#HV>AQC&[T%?D+^V#^S-\-?@AX4\$
+MZGX,&NB?5_&#Z5=BYOVO\0)I$URP@+ "R/RR^: <RCRR1B,$_M4A8J"R[#S\
+MOH,X ...GIQ7Q#^W)\+/'/Q4\'^ =-\"Z0-7N](\9_VIJ<#3B 1Z9'ITQG<$
+MD;F.S"CKNPHR6 -0^)?/\@+_ ,._V./A!\-]:\/_ ! T1/$C:_HD1U% ^N7?
+MV<W!TPV\^;:VQO >W0 .&7(*CEF!_/7P#;?L]^--9^)'B']HWQQJUIXMG\;Z
+MQ_9KQW6L6;R:5]KNECBDD_Y>#;HL(7D>7YC8^_Q^W]M;RIH45BUNOFQZ3'9M
+M;BX#?O$LO*\G=T!W@QENHR&YQ@?!O[-O[+]E:6'CV7XV_#G2+[6-2\=:QJ.@
+MOJV+V*32[J6Y>W"#.4W1["YP=P"C!*@'1/>_3S5[$S^%_+\SX7^./AC]E:S\
+M*6A^"?B35_$WC"]UBQABTR6\O+M6BW\.?M8_=A SY\H_/QOY"FOK?PQ ;?\
+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
+AHH **** "BBB@ HHHH **** "BBB@ HHHH **** /__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

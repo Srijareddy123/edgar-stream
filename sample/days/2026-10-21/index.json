@@ -1,0 +1,65 @@
+{
+ "date": "2026-10-21",
+ "events": [
+  {
+   "accession": "0001104659-26-117835",
+   "version": 1,
+   "cik": 2033991,
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "8-K/A",
+   "filed_date": "2026-10-21",
+   "url_path": "edgar/data/2033991/0001104659-26-117835.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001140361-26-040375",
+   "version": 0,
+   "cik": 1358239,
+   "company": "SLM Student Loan Trust 2006-5",
+   "form": "8-K",
+   "filed_date": "2026-10-21",
+   "url_path": "edgar/data/1358239/0001140361-26-040375.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001193125-26-427816",
+   "version": 0,
+   "cik": 1353613,
+   "company": "Invesco CurrencyShares Japanese Yen Trust",
+   "form": "8-K",
+   "filed_date": "2026-10-21",
+   "url_path": "edgar/data/1353613/0001193125-26-427816.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001193125-26-427817",
+   "version": 0,
+   "cik": 1353612,
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "form": "8-K",
+   "filed_date": "2026-10-21",
+   "url_path": "edgar/data/1353612/0001193125-26-427817.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001193125-26-427819",
+   "version": 0,
+   "cik": 1328598,
+   "company": "Invesco CurrencyShares Euro Trust",
+   "form": "8-K",
+   "filed_date": "2026-10-21",
+   "url_path": "edgar/data/1328598/0001193125-26-427819.txt",
+   "event_ts_ms": 0
+  },
+  {
+   "accession": "0001193125-26-427820",
+   "version": 0,
+   "cik": 1353611,
+   "company": "Invesco CurrencyShares British Pound Sterling Trust",
+   "form": "8-K",
+   "filed_date": "2026-10-21",
+   "url_path": "edgar/data/1353611/0001193125-26-427820.txt",
+   "event_ts_ms": 0
+  }
+ ]
+}

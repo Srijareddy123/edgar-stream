@@ -1,0 +1,1264 @@
+<SEC-DOCUMENT>0000929638-26-003947.txt : 20261019
+<SEC-HEADER>0000929638-26-003947.hdr.sgml : 20261019
+<ACCEPTANCE-DATETIME>20261019152826
+ACCESSION NUMBER:		0000929638-26-003947
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20261013
+<DEPOSITOR-CIK>0001654238
+<SPONSOR-CIK>0001541713
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20261019
+DATE AS OF CHANGE:		20261019
+ABS ASSET CLASS:             	Auto loans
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EFCAR, LLC
+		CENTRAL INDEX KEY:			0001654238
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		ORGANIZATION NAME:           	Office of Structured Finance
+		EIN:				453969432
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-233850
+		FILM NUMBER:		261468789
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2101 W. JOHN CARPENTER FREEWAY
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75063
+		BUSINESS PHONE:		(214) 572-8276
+
+	MAIL ADDRESS:	
+		STREET 1:		2101 W. JOHN CARPENTER FREEWAY
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75063
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Exeter Automobile Receivables Trust 2022-5
+		CENTRAL INDEX KEY:			0001946318
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		ORGANIZATION NAME:           	Office of Structured Finance
+		EIN:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-233850-10
+		FILM NUMBER:		261468790
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2101 W. JOHN CARPENTER FREEWAY
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75063
+		BUSINESS PHONE:		(214) 572-8276
+
+	MAIL ADDRESS:	
+		STREET 1:		2101 W. JOHN CARPENTER FREEWAY
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75063
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>exeter2022-5_a8k.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Morgan Lewis
+         Document created using Broadridge PROfile 26.3.2.5342
+         Copyright 1995 - 2026 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div style="text-align: center; margin-bottom: 12pt; font-family: 'Times New Roman'; font-weight: bold;">
+    <div style="font-weight: bold;">UNITED STATES</div>
+    <div style="font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+    <div style="font-weight: bold;">WASHINGTON, DC&#160; 20549</div>
+    <div style="margin-top: 6pt; margin-bottom: 6pt; font-weight: bold;">FORM 8-K</div>
+    <div style="font-weight: bold;">CURRENT REPORT PURSUANT TO</div>
+    <div style="font-weight: bold;">SECTION 13 OR 15(d) OF THE</div>
+    <div style="margin-bottom: 12pt; font-weight: bold;">SECURITIES EXCHANGE ACT OF 1934</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z880157914fac4d92a544b9402e12094c" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';">Date of report (Date of earliest event reported): October 13, 2026<br>
+            </div>
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';"> <br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 66.6pt; margin-left: 66.6pt; font-family: 'Times New Roman';"><u>Exeter Automobile Receivables Trust 2022-5</u></div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';">(Exact name of Issuing Entity as specified in its charter)</div>
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';"> <br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 66.6pt; margin-left: 66.6pt; font-family: 'Times New Roman';"><u>EFCAR, LLC</u></div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';">(Exact name of Depositor / Registrant as specified in its charter)</div>
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';"> <br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 66.6pt; margin-left: 66.6pt; font-family: 'Times New Roman';"><u>Exeter Finance LLC</u></div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';">(Exact name of Sponsor as specified in its charter)</div>
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';"> <br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 66.6pt; margin-left: 66.6pt; font-family: 'Times New Roman';"><u>Delaware</u></div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';">(State or Other Jurisdiction of Incorporation)</div>
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';"> <br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50.48%; vertical-align: top;">
+            <div>
+              <div>&#160;</div>
+              <div style="text-align: center; margin-right: 21.6pt; margin-left: 19.45pt; font-family: 'Times New Roman';">333-233850</div>
+            </div>
+            <div>
+              <div style="text-align: center; margin-right: 21.6pt; margin-left: 19.45pt; font-family: 'Times New Roman';"><u>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 333-233850-10 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+                </u></div>
+            </div>
+          </td>
+          <td colspan="2" style="width: 49.52%; vertical-align: top;">
+            <div>
+              <div>&#160;</div>
+              <div style="text-align: center; margin-right: 21.6pt; margin-left: 19.45pt; font-family: 'Times New Roman';">45-2673519</div>
+            </div>
+            <div>
+              <div style="text-align: center; margin-right: 21.6pt; margin-left: 19.45pt; font-family: 'Times New Roman';"><u>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 88-6358805 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+                </u></div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50.48%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';">(Commission File Number)</div>
+          </td>
+          <td colspan="2" style="width: 49.52%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';">(IRS Employer Identification No.)</div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="width: 61.54%; vertical-align: bottom;">
+            <div>
+              <div>&#160;</div>
+              <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';"><u>2101 W. John Carpenter Freeway, Irving, Texas</u></div>
+            </div>
+          </td>
+          <td style="width: 38.46%; vertical-align: bottom;">
+            <div>
+              <div>&#160;</div>
+              <div style="text-align: center; margin-right: 36pt; margin-left: 39.6pt; font-family: 'Times New Roman';"><u>75063</u></div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="width: 61.54%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';">(Address of Principal Executive Offices)</div>
+          </td>
+          <td style="width: 38.46%; vertical-align: top;">
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';">(Zip Code)</div>
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';"> <br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: bottom;">
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';">Registrant&#8217;s telephone number, including area code: (469) 754-4396<br>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: bottom;">
+            <div>
+              <div>&#160;</div>
+              <div style="text-align: center; margin-right: 66.6pt; margin-left: 66.6pt; font-family: 'Times New Roman';"><u>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Not Applicable&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+                </u></div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="width: 100%; vertical-align: bottom;">
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';">(Former Name or Former Address, if Changed Since Last Report)</div>
+            <div style="text-align: center; margin-right: 3.6pt; margin-left: 3.6pt; font-family: 'Times New Roman';"> <br>
+            </div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="margin-right: 9pt; margin-bottom: 6pt; font-weight: normal;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 6pt;" class="DSPFListTable" id="z1166bbca39004c129a6dddee9137b6fd" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: -9pt;"><br>
+          </td>
+          <td style="width: 22.5pt; vertical-align: top; align: right; font-family: 'Times New Roman';">&#9744;</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 6pt;" class="DSPFListTable" id="z76021ca1dcca4434b03653bea9f99b70" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: -9pt;"><br>
+          </td>
+          <td style="width: 22.5pt; vertical-align: top; align: right; font-family: 'Times New Roman';">&#9744;</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 6pt;" class="DSPFListTable" id="z806582cc3f1043d99aaf2f4129f48acf" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: -9pt;"><br>
+          </td>
+          <td style="width: 22.5pt; vertical-align: top; align: right; font-family: 'Times New Roman';">&#9744;</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 6pt;" class="DSPFListTable" id="z7856cfc94ee5433bb5402ae4745bbb1e" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: -9pt;"><br>
+          </td>
+          <td style="width: 22.5pt; vertical-align: top; align: right; font-family: 'Times New Roman';">&#9744;</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="color: rgb(0, 0, 0); font-weight: normal; text-align: left;">Securities registered pursuant to Section 12(b) of the Act:</div>
+    <div><br>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="ze571e80593634291bc56694806f4c12f" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 25.39%; vertical-align: top; border-left: #000000 1px solid; border-right: #000000 1px solid; border-top: #000000 1px solid; border-bottom: #000000 1px solid;">
+            <div>&#160;</div>
+            <div style="text-align: center; font-family: 'Times New Roman';">Title of each class</div>
+          </td>
+          <td style="width: 25.19%; vertical-align: top; border-left: #000000 1px solid; border-right: #000000 1px solid; border-top: #000000 1px solid; border-bottom: #000000 1px solid;">
+            <div>&#160;</div>
+            <div style="text-align: center; font-family: 'Times New Roman';">Trading Symbol(s)</div>
+          </td>
+          <td style="width: 49.42%; vertical-align: top; border-left: #000000 1px solid; border-right: #000000 1px solid; border-top: #000000 1px solid; border-bottom: #000000 1px solid;">
+            <div>&#160;</div>
+            <div style="text-align: center; font-family: 'Times New Roman';">Name of each exchange on which registered</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 25.39%; vertical-align: top; border-left: #000000 1px solid; border-right: #000000 1px solid; border-top: #000000 1px solid; border-bottom: #000000 1px solid;">
+            <div style="text-align: center; color: #000000; font-family: 'Times New Roman';">Not applicable</div>
+          </td>
+          <td style="width: 25.19%; vertical-align: top; border-left: #000000 1px solid; border-right: #000000 1px solid; border-top: #000000 1px solid; border-bottom: #000000 1px solid;">
+            <div style="text-align: center; color: #000000; font-family: 'Times New Roman';">Not applicable</div>
+          </td>
+          <td style="width: 49.42%; vertical-align: top; border-left: #000000 1px solid; border-right: #000000 1px solid; border-top: #000000 1px solid; border-bottom: #000000 1px solid;">
+            <div style="text-align: center; color: #000000; font-family: 'Times New Roman';">Not applicable</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <br class="Apple-interchange-newline">
+    <table id="z5489af72a11348ecb988cbd7efab9751" style="border-collapse: collapse; letter-spacing: normal; width: 100%; word-spacing: 0px; color: #000000; font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; text-transform: none;" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td colspan="2" rowspan="1" style="width: 1567px; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+              Act of 1934 (&#167;240.12b-2 of this chapter).</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 1096.89px; vertical-align: top;">&#160;</td>
+          <td style="width: 470.109px; vertical-align: top;">
+            <div style="font-family: 'Times New Roman'; text-align: right;">Emerging growth company &#9744;</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="color: rgb(0, 0, 0); font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><br>
+    </div>
+    <table style="border-collapse: collapse; letter-spacing: normal; width: 100%; word-spacing: 0px; color: #000000; font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; text-transform: none;" id="zd0c10dedc9894f73bb4dadc630ebf309" border="0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 1410.3px; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+              provided pursuant to Section 13(a) of the Exchange Act.</div>
+          </td>
+          <td style="width: 156.703px; vertical-align: bottom; text-align: right;">
+            <div style="font-family: 'Times New Roman';">&#9744;</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+      <br>
+    </div>
+    <div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+      <div class="BRPFPageBreak" style="page-break-after: always;">
+        <hr style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;" noshade="noshade"></div>
+    </div>
+    <br class="Apple-interchange-newline">
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 8pt;" class="DSPFListTable" id="z1f0c99d726db466eba8a96c03a4b398a" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 72pt; vertical-align: top;"><font style="font-family: 'Times New Roman'; font-weight: bold;"><u>Item 1.01</u>.</font></td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman'; font-weight: bold;"><u>Entry into a Material Definitive Agreement</u>.</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="text-align: justify; margin-bottom: 8pt; font-weight: normal;">
+      <div style="margin-bottom: 8pt;">On October 13, 2026, Exeter Finance LLC, EFCAR, LLC, Exeter Automobile Receivables Trust 2022-5 and Exeter Automobile Receivables Trust 2022-6 entered into a Capital Contribution Agreement, dated as of October 13,
+        2026, and acknowledged and agreed to by Citibank, N.A., as indenture trustee, pursuant to which EFCAR, LLC, as a holder of the equity of each of Exeter Automobile Receivables Trust 2022-5 and Exeter Automobile Receivables Trust 2022-6, may make
+        certain limited capital contributions to each of such trusts.</div>
+      <div style="text-align: left;">On October 13, 2026, Exeter Holdings Trust 2022-5, EFCAR, LLC, Exeter Finance LLC, Exeter Automobile Receivables Trust 2022-5 and Citibank, N.A., as indenture trustee and backup servicer, entered into Amendment No. 1 to
+        Sale and Servicing Agreement, dated as of October 13, 2026, to amend and add certain defined terms in the Sale and Servicing Agreement, dated as of September 18, 2022 (such agreement, as so amended, the &#8220;Sale and Servicing Agreement&#8221;), related to
+        the deposit of capital contributions into the Reserve Account (as defined in the Sale and Servicing Agreement), and the withdrawal and application of any such contributed amounts from time to time.</div>
+    </div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 8pt;" class="DSPFListTable" id="zcb21ee4ac6a144448b3476f43281c1b7" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 50pt; vertical-align: top;"><font style="font-family: 'Times New Roman'; font-weight: bold;"><u>Item 9.01</u>.</font></td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman'; font-weight: bold;"><u>Financial Statements and Exhibits</u>.</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 8pt;" class="DSPFListTable" id="zdd625edaf8e24ef08cc8171cded545f7" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 54pt;"><br>
+          </td>
+          <td style="width: 27pt; vertical-align: top; font-family: 'Times New Roman';">(a)</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Not applicable.</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 8pt;" class="DSPFListTable" id="z0013d1d541d5466c8efe87631654b941" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 54pt;"><br>
+          </td>
+          <td style="width: 27pt; vertical-align: top; font-family: 'Times New Roman';">(b)</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Not applicable.</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 8pt;" class="DSPFListTable" id="zb4a4e8d61c374d7fb307d86bd1753db2" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 54pt;"><br>
+          </td>
+          <td style="width: 27pt; vertical-align: top; font-family: 'Times New Roman';">(c)</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Not applicable.</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 8pt;" class="DSPFListTable" id="z88945a38cb624ce39176d49f9556eace" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 54pt;"><br>
+          </td>
+          <td style="width: 27pt; vertical-align: top; font-family: 'Times New Roman';">(d)</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Exhibits:</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 8pt;" class="DSPFListTable" id="z39fd567c0cb54185ab87042a583adb96" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 81pt;"><br>
+          </td>
+          <td style="width: 67.5pt; vertical-align: top;"><font style="font-family: 'Times New Roman';"><u>Exhibit No</u>.</font></td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';"><u>Description</u></div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 8pt;" class="DSPFListTable" id="z6fc954fe8fc5405eb88d542da1828e59" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 81pt;"><br>
+          </td>
+          <td style="width: 67.5pt; vertical-align: top; font-family: 'Times New Roman';"><a href="exeter20225_exhibit4-9.htm">4.9</a></td>
+          <td style="width: auto; vertical-align: top; text-align: justify;">
+            <div style="font-family: 'Times New Roman';"><a href="exeter20225_exhibit4-9.htm">Capital Contribution Agreement, dated as of October 13, 2026, among Exeter Finance LLC, EFCAR, LLC, Exeter Automobile
+                Receivables Trust 2022-5 and Exeter Automobile Receivables Trust 2022-6, and acknowledged and agreed to by Citibank, N.A., as indenture trustee.</a></div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 8pt;" class="DSPFListTable" id="zf4937f947c534a048c3fbe0893037dce" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 81pt;"><br>
+          </td>
+          <td style="width: 67.5pt; vertical-align: top; font-family: 'Times New Roman';"><a href="exeter20225_exhibit4-10.htm">4.10</a></td>
+          <td style="width: auto; vertical-align: top; text-align: justify;">
+            <div style="font-family: 'Times New Roman';"><a href="exeter20225_exhibit4-10.htm">Amendment No. 1 to Sale and Servicing Agreement, dated as of October 13, 2026, among Exeter Holdings Trust 2022-5,
+                EFCAR, LLC, Exeter Finance LLC, Exeter Automobile Receivables Trust 2022-5 and Citibank, N.A, as indenture trustee and backup servicer.</a></div>
+          </td>
+        </tr>
+
+    </table>
+  </div>
+  <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+    <div style="page-break-after: always;" class="BRPFPageBreak">
+      <hr style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;" noshade="noshade"></div>
+  </div>
+  <div style="text-align: center; margin-bottom: 12pt; font-family: 'Times New Roman'; font-weight: bold;">SIGNATURES</div>
+  <div>
+    <div style="text-align: justify; text-indent: 54pt; margin-bottom: 12pt; font-family: 'Times New Roman';">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+      undersigned hereunto duly authorized.</div>
+    <div><br>
+    </div>
+    <div style="text-indent: -30pt; margin-left: 246pt; font-family: 'Times New Roman';">EFCAR, LLC</div>
+    <div><br>
+    </div>
+    <div>
+      <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zf3ebbbb7e6074b62af179ada3c4114a1" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td style="width: 216pt;"><br>
+            </td>
+            <td style="width: 252pt; vertical-align: top; align: right;"><font style="font-family: 'Times New Roman';">By:&#160; <u>/s/ Michael Hayes&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+                </u></font></td>
+            <td style="width: auto; vertical-align: top;"><br>
+            </td>
+          </tr>
+
+      </table>
+      <div style="text-indent: -30pt; margin-left: 246pt; font-family: 'Times New Roman';">&#160;&#160;&#160;&#160;&#160;&#160;&#160; Name:&#160; Michael Hayes</div>
+      <div style="text-indent: -30pt; margin-left: 246pt; font-family: 'Times New Roman';">&#160;&#160;&#160;&#160;&#160;&#160;&#160; Title:&#160;&#160;&#160; Assistant Vice President<br>
+      </div>
+      <div><br>
+      </div>
+    </div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; margin-bottom: 12pt; font-family: 'Times New Roman';">Date: October 19, 2026<br>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.9
+<SEQUENCE>2
+<FILENAME>exeter20225_exhibit4-9.htm
+<DESCRIPTION>CAPITAL CONTRIBUTION AGREEMENT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Morgan Lewis
+         Document created using Broadridge PROfile 26.3.2.5342
+         Copyright 1995 - 2026 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div style="text-align: right;"><font style="font-weight: bold;">Exhibit 4.9</font><br>
+  </div>
+  <div style="text-align: right;"><font style="font-weight: bold; font-style: italic;">Execution Version</font><font style="font-weight: bold;"><br>
+    </font></div>
+  <div style="text-align: right;"><font style="font-weight: bold;"> <br>
+    </font></div>
+  <div style="text-align: right;"><font style="font-weight: bold;"> <br>
+    </font></div>
+  <div>
+    <div style="text-align: justify; margin-bottom: 12pt; font-family: 'Times New Roman';"><a name="z_Hlk124501493"></a>
+      <div style="margin-bottom: 12pt; text-indent: 36pt;"><a name="z_Hlk124501493"></a><br>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;"><a name="z_Hlk124501493"></a>THIS CAPITAL CONTRIBUTION AGREEMENT, dated as of October 13, 2026 (this &#8220;<u>Agreement</u>&#8221;), is executed by and among Exeter Finance LLC, a Delaware limited liability
+          company (&#8220;<u>Exeter Finance</u>&#8221;), EFCAR, LLC, a Delaware limited liability company (&#8220;<u>EFCAR</u>&#8221;), Exeter Automobile Receivables Trust 2022-5, a Delaware statutory trust (the &#8220;<u>EART 2022-5 Trust</u>&#8221; and, also, a &#8220;<u>Trust</u>&#8221;), and Exeter
+          Automobile Receivables Trust 2022-6, a Delaware statutory trust (the &#8220;<u>EART 2022-6 Trust</u>&#8221; and, also, a &#8220;<u>Trust</u>&#8221;)</div>
+        <div style="text-align: center; margin-bottom: 12pt;"><u>W I T N E S S E T H </u>:</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">WHEREAS, EFCAR is the sole owner of the equity interests in each of the Trusts, and Exeter Finance is the sole owner of the limited liability company interests in EFCAR;</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">WHEREAS, the Amended and Restated Trust Agreement and the related Indenture for each Trust provide that any certificateholder of such Trust may make capital contributions to such Trust from time
+          to time and in the sole discretion of such certificateholder; and</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">WHEREAS, Exeter Finance desires to make one or more capital contributions to EFCAR, and EFCAR desires to make one or more capital contributions to one or more of the Trusts, in each case in
+          accordance with the terms of this Agreement.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">NOW, THEREFORE, in consideration of the premises and the mutual agreements hereinafter contained, and for other good and valuable consideration, the receipt of which is acknowledged, each of the
+          parties to this Agreement, intending to be legally bound, hereby agrees as follows:</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">SECTION 1.1&#160; <a name="z_Toc99037145"></a><u>Capital Contributions</u>.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">(a)&#160; &#160;&#160; Subject to the terms and conditions of this Agreement, Exeter Finance may (but shall have no obligation to), on or about the date hereof, make a capital contribution to EFCAR in an amount
+          equal to $22,500,000, in exchange for an increase in the value of Exeter Finance&#8217;s equity interest in EFCAR.&#160; Capitalized terms used herein and not otherwise defined shall have the meaning set forth in the related Indenture or Sale and Servicing
+          Agreement to which the applicable Trust is a party.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">(b)&#160; &#160;&#160; Simultaneously with the making of the capital contribution by Exeter Finance to EFCAR pursuant to Section 1.1(a), EFCAR shall make capital contributions (i) to the EART 2022-5 Trust, in
+          an amount equal to $4,100,000, and (ii) to the EART 2022-6 Trust, in an amount equal to $18,400,000, in each case in exchange for an increase in the value of EFCAR&#8217;s equity interest in the related Trust.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">(c)&#160; &#160;&#160; The amount of each capital contribution made by EFCAR to a Trust shall be deposited by EFCAR into the Reserve Account for such Trust.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">(d)&#160; &#160;&#160; The execution and delivery of this Agreement shall constitute an acknowledgment by the parties hereto that they each intend that the assignments and transfers herein contemplated
+          constitute a sale and assignment outright, and not for security, of each capital contribution made pursuant to the terms of this Agreement, conveying good title thereto free and clear of any liens.</div>
+        <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+          <div style="page-break-after: always;" class="BRPFPageBreak">
+            <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+        </div>
+        <!--PROfilePageNumberReset%Num%2%%%-->
+        <div><br>
+        </div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">SECTION 1.2&#160; <a name="z_Toc99037147"></a><u>Representations and Warranties</u>.&#160; Each of Exeter Finance and EFCAR makes the following representations and warranties as of the date hereof and, if
+          later, as of the date on which the capital contributions described in Sections 1.1(a) and (b) are made. Such representations are made as of the execution and delivery of this Agreement, but shall survive the pledge of such capital contributions
+          by the related Trust to the related indenture trustee under the related Indenture.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">(a)&#160; &#160;&#160; <u>Organization and Good Standing</u>.&#160; It has been duly organized and is validly existing and in good standing as a Delaware limited liability company under the laws of the State of
+          Delaware, with power and authority to own its properties and to conduct its business as such properties are currently owned and such business is currently conducted.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">(b)&#160; &#160;&#160; <u>Due Qualification</u>.&#160; It is duly qualified to do business, and has obtained all necessary licenses and approvals in all jurisdictions in which the ownership or lease of its property
+          or the conduct of its business requires such qualification.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">(c)&#160; &#160;&#160; <u>Power and Authority</u>.&#160; It has the power and authority to execute and deliver this Agreement and to carry out its terms; and the execution, delivery and performance of this
+          Agreement has been duly authorized by it by all necessary corporate action.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">(d)&#160; &#160;&#160; <u>No Consent Required</u>.&#160; It is not required to obtain the consent of any other Person, or any consent, license, approval or authorization or registration or declaration with, any
+          governmental authority, bureau or agency in connection with the execution, delivery or performance of this Agreement, except for such as have been obtained, effected or made.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">(e)&#160; &#160;&#160; <u>Valid Sale; Binding Obligations</u>.&#160; This Agreement has been duly executed and delivered, shall effect a valid sale, transfer and assignment of each capital contribution made by it
+          pursuant to the terms of this Agreement, enforceable against it and creditors of and purchasers from it; and this Agreement constitutes its legal, valid and binding obligation enforceable in accordance with its terms, except as enforceability may
+          be limited by bankruptcy, insolvency, reorganization or other similar laws affecting the enforcement of creditors&#8217; rights generally and by equitable limitations on the availability of specific remedies, regardless of whether such enforceability
+          is considered in a proceeding in equity or at law.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">(f)&#160; &#160;&#160; <u>No Violation</u>.&#160; The consummation of the transactions contemplated by this Agreement, and the fulfillment of the terms of this Agreement, shall not conflict with, result in any
+          breach of any of the terms and provisions of, or constitute (with or without notice, lapse of time or both) a default under, its limited liability company agreement, or any indenture, agreement, mortgage, deed of trust or other instrument to
+          which it is a party or by which it is bound, or result in the creation or imposition of any lien upon any of its properties pursuant to the terms of any such indenture, agreement, mortgage, deed of trust or other instrument, other than this
+          Agreement, or violate any law, order, rule or regulation applicable to it of any court or of any federal or state regulatory body, administrative agency or other governmental instrumentality having jurisdiction over it or any of its properties.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">(g)&#160; &#160;&#160; <u>No Proceedings</u>.&#160; There are no proceedings or investigations pending or, to its knowledge, threatened against it, before any court, regulatory body, administrative agency or</div>
+        <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+          <div class="BRPFPageNumberArea" style="text-align: center;"><font class="BRPFPageNumber" style="font-family: 'Times New Roman', Times, serif; font-size: 8pt; font-weight: normal; font-style: normal;">2</font></div>
+          <div style="page-break-after: always;" class="BRPFPageBreak">
+            <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+        </div>
+        <div><br>
+        </div>
+        <div style="margin: 0px 0px 12pt; text-indent: 0px;">other tribunal or governmental instrumentality having jurisdiction over it or its properties (i) asserting the invalidity of this Agreement, (ii) seeking to prevent the consummation of any of the
+          transactions contemplated by this Agreement, (iii) seeking any determination or ruling that might materially and adversely affect the performance by it of its obligations under, or the validity or enforceability of, this Agreement or (iv) seeking
+          to affect adversely the federal income tax or other federal, state or local tax attributes of, or seeking to impose any excise, franchise, transfer or similar tax upon, the transfer and acquisition of any capital contribution made pursuant to the
+          terms of this Agreement or the pledge thereof to the related indenture trustee under the related Indenture.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">(h)&#160; &#160;&#160; <u>Solvency</u>.&#160; It is not insolvent, nor will it be made insolvent by any capital contribution made pursuant to the terms of this Agreement, nor does it anticipate any pending
+          insolvency.&#160; It reasonably believes that each Trust is solvent.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">In the event of any breach of a representation and warranty made by EFCAR hereunder, each Trust covenants and agrees that it will not take any action to pursue any remedy that it may have
+          hereunder, in law, in equity or otherwise, until a year and a day have passed since the date on which all notes, certificates, pass-through certificates or other similar securities issued by EFCAR, or by a trust or similar vehicle formed by EFCAR
+          (other than such Trust), have been paid in full.&#160; The parties hereto agree that damages will not be an adequate remedy for any such breach.&#160; Each of Exeter Finance and EFCAR shall be liable in accordance herewith only to the extent of the
+          obligations in this Agreement specifically undertaken by Exeter Finance and EFCAR, respectively, and the representations and warranties of Exeter Finance and EFCAR, respectively.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">SECTION 1.3&#160; <a name="z_Toc99037158"></a><u>Amendment</u>.&#160; This Agreement may be amended by Exeter Finance and EFCAR, with the consent of the Trusts.&#160; Any Amendment which impacts the rights,
+          duties, obligations or protections of Wilmington Trust Company, in its individual capacity or as the related Owner Trustee, or Citibank, N.A., in its individual capacity or as the related Indenture Trustee, Note Paying Agent or Backup Servicer
+          under the related Indentures or Sale and Servicing Agreements, shall require such party&#8217;s written consent, to be supplied in its sole discretion.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">SECTION 1.4&#160; <a name="z_Toc99037160"></a><u>Merger and Integration</u>.&#160; Except as specifically stated otherwise herein, this Agreement sets forth the entire understanding of the parties hereto
+          relating to the subject matter hereof, and all prior understandings, written or oral, are superseded by this Agreement. This Agreement may not be modified, amended, waived or supplemented except as provided herein.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">SECTION 1.5&#160; <a name="z_Toc99037161"></a><u>Severability of Provisions</u>.&#160; If any one or more of the covenants, provisions or terms of this Agreement shall be for any reason whatsoever held
+          invalid, then such covenants, provisions or terms shall be deemed severable from the remaining covenants, provisions or terms of this Agreement and shall in no way affect the validity or enforceability of the other provisions of this Agreement.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">SECTION 1.6&#160; <a name="z_Toc99037163"></a><u>Governing Law; Jurisdiction</u>.&#160; This Agreement shall be construed in accordance with, and this Agreement and all matters arising out of or relating
+          in any way to this Agreement shall be governed by, the law of the State of New York, without giving effect to its conflict of law provisions (other than Sections 5-1401 and 5-1402 of the New York General</div>
+        <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+          <div class="BRPFPageNumberArea" style="text-align: center;"><font class="BRPFPageNumber" style="font-family: 'Times New Roman', Times, serif; font-size: 8pt; font-weight: normal; font-style: normal;">3</font></div>
+          <div style="page-break-after: always;" class="BRPFPageBreak">
+            <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+        </div>
+        <div><br>
+        </div>
+        <div style="margin: 0px 0px 12pt; text-indent: 0px;">Obligations Law). The parties hereto agree to the non-exclusive jurisdiction of any federal courts located within the state of New York.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">SECTION 1.7&#160; <a name="z_Toc99037164"></a><u>Waiver of Jury Trial</u>.&#160; THE PARTIES HERETO HEREBY WAIVE TRIAL BY JURY IN ANY ACTION BROUGHT ON OR WITH RESPECT TO THIS AGREEMENT OR ANY OTHER
+          DOCUMENT OR INSTRUMENT EXECUTED IN CONNECTION HEREWITH OR THEREWITH.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">SECTION 1.8&#160; <a name="z_Toc99037165"></a><u>Counterparts</u>.&#160; For the purpose of facilitating the execution of this Agreement and for other purposes, this Agreement may be executed
+          simultaneously in any number of counterparts, each of which counterparts shall be deemed to be an original, and all of which counterparts shall constitute but one and the same instrument.&#160; Each of the parties hereto further agrees that this
+          Agreement and any other documents to be <a name="z_9kMI7N6ZWu57789BP9ot41yzm"></a>delivered in connection herewith may be electronically signed, and that any electronic signatures appearing on this Agreement or such other documents are the same
+          as handwritten signatures for the purposes of validity, enforceability, and admissibility.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">SECTION 1.9&#160; <a name="z_Toc99037166"></a><u>Subsequent Conveyance of Capital Contributions</u>.&#160; Each of Exeter Finance and EFCAR acknowledges that each Trust intends, pursuant to the related
+          Indenture, to pledge the amount of each capital contribution made pursuant to the terms of this Agreement, together with its rights under this Agreement, to the related indenture trustee, for the benefit of the related noteholders and
+          certificateholders, at the time such capital contribution is made to such Trust.&#160; Each of Exeter Finance and EFCAR acknowledges and consents to each such pledge and waives any further notice thereof, and covenants and agrees that the rights of
+          each Trust hereunder are intended to benefit the related noteholders and the certificateholders.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">SECTION 1.10&#160; <a name="z_Toc99037167"></a><u>Nonpetition Covenant</u>.&#160; Neither EFCAR nor any Trust shall petition or otherwise invoke the process of any court or government authority for the
+          purpose of commencing or sustaining a case against any such other party under any federal or state bankruptcy, insolvency or similar law or appointing a receiver, liquidator, assignee, trustee, custodian, sequestrator or other similar official of
+          such other party or any substantial part of their respective property, or ordering the winding up or liquidation of the affairs of such other party.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">SECTION 1.11&#160; <a name="z_Toc99037168"></a><u>Limitation of Liability of Trustees</u>.&#160; <a name="z_Hlk126740704"></a>It is expressly understood and agreed by the parties hereto that (a) this
+          Agreement is executed and delivered by Wilmington Trust Company, not individually or personally but solely as owner trustee of each Trust, in the exercise of the powers and authority conferred and vested in it, (b) each of the representations,
+          covenants, undertakings and agreements herein made on the part of such Trust is made and intended not as personal representations, covenants, undertakings and agreements by Wilmington Trust Company but is made and intended for the purpose of
+          binding only such Trust, (c) nothing herein contained shall be construed as creating any liability on Wilmington Trust Company, individually or personally, to perform any covenant either expressed or implied contained herein, all such liability,
+          if any, being expressly waived by the parties hereto and by any person claiming by, through or under the parties hereto, (d) Wilmington Trust Company has made no investigation as to the accuracy or completeness of any representations or
+          warranties made by such Trust in this Agreement and (e) under no circumstances shall Wilmington Trust Company be personally liable for the payment of any indebtedness or expenses of such Trust or be liable for the breach or failure</div>
+        <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+          <div class="BRPFPageNumberArea" style="text-align: center;"><font class="BRPFPageNumber" style="font-family: 'Times New Roman', Times, serif; font-size: 8pt; font-weight: normal; font-style: normal;">4</font></div>
+          <div style="page-break-after: always;" class="BRPFPageBreak">
+            <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+        </div>
+        <div><br>
+        </div>
+        <div style="margin: 0px 0px 12pt; text-indent: 0px;">of any obligation, duty (including fiduciary duty, if any), representation, warranty or covenant made or undertaken by such Trust under this Agreement or any other related documents.</div>
+        <div style="text-indent: 72pt; margin-bottom: 12pt;">The Indenture Trustee has the same rights, protections and immunities hereunder as it has under the related Indentures as if such rights, protections and immunities were expressly set forth
+          herein <font style="font-style: italic;">mutatis mutandis</font>, which shall survive the satisfaction and discharge of the related Indentures and this Agreement.</div>
+        <div style="text-align: center; margin-bottom: 12pt; color: #000000;">[Remainder of Page Intentionally Left Blank]<a name="z_Hlk124501494"></a></div>
+        <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+          <div class="BRPFPageNumberArea" style="text-align: center;"><font class="BRPFPageNumber" style="font-family: 'Times New Roman', Times, serif; font-size: 8pt; font-weight: normal; font-style: normal;">5</font></div>
+          <div style="page-break-after: always;" class="BRPFPageBreak">
+            <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+        </div>
+        <div style="text-indent: 72pt; margin-bottom: 18pt;"><a name="z_Hlk129868763"></a>IN WITNESS WHEREOF, the parties have caused this Agreement to be duly executed by their respective officers as of the day and year first above written.</div>
+        <div style="text-align: left; margin-left: 216pt; margin-bottom: 24pt;">EXETER FINANCE LLC</div>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z22c845b16bce40d8a1557c4c9694e597" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 238.3pt;"><br>
+              </td>
+              <td style="width: 20pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';"><u>/s/ Michael Hayes&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+                  </u></div>
+              </td>
+            </tr>
+
+        </table>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="ze51115950d284821ba092d67cda65474" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 260.5pt;"><br>
+              </td>
+              <td style="width: 50.5pt; vertical-align: top; font-family: 'Times New Roman';">Name:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';">Michael Hayes</div>
+              </td>
+            </tr>
+
+        </table>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 24pt;" class="DSPFListTable" id="z73d4fdd08f1a4e2e81152367d58434e5" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 260.5pt;"><br>
+              </td>
+              <td style="width: 50.5pt; vertical-align: top; font-family: 'Times New Roman';">Title:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';">Executive Vice President and Treasurer</div>
+              </td>
+            </tr>
+
+        </table>
+        <div style="text-align: left; margin-left: 216pt; margin-bottom: 24pt;">EFCAR, LLC</div>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z24086481328d426bb830893331109179" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 238.3pt;"><br>
+              </td>
+              <td style="width: 20pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';"><u>/s/ Michael Hayes&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+                  </u></div>
+              </td>
+            </tr>
+
+        </table>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z585d5478fa3f439480139d5e9622ed19" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 260.5pt;"><br>
+              </td>
+              <td style="width: 50.5pt; vertical-align: top; font-family: 'Times New Roman';">Name:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';">Michael Hayes</div>
+              </td>
+            </tr>
+
+        </table>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 18pt;" class="DSPFListTable" id="z4d764f70ed6a494f80f179971b13f593" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 260.5pt;"><br>
+              </td>
+              <td style="width: 50.5pt; vertical-align: top; font-family: 'Times New Roman';">Title:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';">Assistant Vice President</div>
+              </td>
+            </tr>
+
+        </table>
+        <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+          <div style="page-break-after: always;" class="BRPFPageBreak">
+            <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+        </div>
+        <div style="margin-bottom: 18pt;"><br>
+        </div>
+        <div style="text-align: left; margin-left: 216pt; margin-bottom: 12pt;"><a name="z_Hlk205808728"></a>EXETER AUTOMOBILE RECEIVABLES TRUST 2022-5, as a Trust</div>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 24pt;" class="DSPFListTable" id="zd199b2ce79d5409b90d7606267c4e861" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 216.2pt;"><br>
+              </td>
+              <td style="width: 35.8pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';">WILMINGTON TRUST COMPANY, not in its individual capacity but solely as owner trustee of such Trust</div>
+              </td>
+            </tr>
+
+        </table>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z39450ca2708f473aa212d110cb2b202f" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 238.3pt;"><br>
+              </td>
+              <td style="width: 20pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';"><u>/s/ Jacob Stapleford&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+                  </u></div>
+              </td>
+            </tr>
+
+        </table>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z0cfccdcc129846688327cd4ebb75f4f6" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 260.5pt;"><br>
+              </td>
+              <td style="width: 50.5pt; vertical-align: top; font-family: 'Times New Roman';">Name:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';">Jacob Stapleford</div>
+              </td>
+            </tr>
+
+        </table>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 24pt;" class="DSPFListTable" id="zb7f545974c5048c4bdf4db96ac4c4f65" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 260.5pt;"><br>
+              </td>
+              <td style="width: 50.5pt; vertical-align: top; font-family: 'Times New Roman';">Title:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';">Assistant Vice President</div>
+              </td>
+            </tr>
+
+        </table>
+        <div style="text-align: left; margin-left: 216pt; margin-bottom: 12pt;">EXETER AUTOMOBILE RECEIVABLES TRUST 2022-6, as a Trust</div>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 24pt;" class="DSPFListTable" id="zc085764351f042b7b9d4a1d91e3f127e" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 216.2pt;"><br>
+              </td>
+              <td style="width: 35.8pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';">WILMINGTON TRUST COMPANY, not in its individual capacity but solely as owner trustee of such Trust</div>
+              </td>
+            </tr>
+
+        </table>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zd9afcc1009264999a9a6adb2ba7f42fb" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 238.3pt;"><br>
+              </td>
+              <td style="width: 20pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';"><u>/s/ Jacob Stapleford&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+                  </u></div>
+              </td>
+            </tr>
+
+        </table>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z1bc7a0fa91754256899e29c1a2f53b8b" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 260.5pt;"><br>
+              </td>
+              <td style="width: 50.5pt; vertical-align: top; font-family: 'Times New Roman';">Name:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';">Jacob Stapleford</div>
+              </td>
+            </tr>
+
+        </table>
+        <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 24pt;" class="DSPFListTable" id="z922f47b371484445b8eac20fb25437b7" cellpadding="0" cellspacing="0">
+
+            <tr>
+              <td style="width: 260.5pt;"><br>
+              </td>
+              <td style="width: 50.5pt; vertical-align: top; font-family: 'Times New Roman';">Title:</td>
+              <td style="width: auto; vertical-align: top;">
+                <div style="font-family: 'Times New Roman';">Assistant Vice President</div>
+              </td>
+            </tr>
+
+        </table>
+        <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+          <div style="page-break-after: always;" class="BRPFPageBreak">
+            <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+        </div>
+        <div style="margin-bottom: 24pt;"><br>
+        </div>
+        <div style="margin: 0px 0px 12pt; text-align: left; text-indent: 0px;">ACKNOWLEDGED AND AGREED TO BY:</div>
+        <div style="margin: 0px 252pt 24pt 0px; text-align: left; text-indent: 0px;">CITIBANK, N.A., not in its individual capacity but solely as Indenture Trustee for each of the Trusts</div>
+        <div style="text-align: left;">
+          <div>
+            <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="z42d29e40ebc142dd969cf2aa1447b5e2" cellpadding="0" cellspacing="0">
+
+                <tr>
+                  <td rowspan="1" style="width: -0.2pt;">
+                    <div><font style="font-family: 'Times New Roman';">By:</font><font style="text-indent: 0px; font-size: 5.14pt;" class="TRGRRTFtoHTMLTab">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<u>&#160;&#160;</u></font><u><font style="font-family: 'Times New Roman';">/s/ Elizabeth
+                          Fergadiotis&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+                        </font></u></div>
+                    <div><font style="font-family: 'Times New Roman';">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Name:</font><font style="text-indent: 0px; font-size: 5.14pt;" class="TRGRRTFtoHTMLTab">&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-family: 'Times New Roman';">Elizabeth Fergadiotis</font></div>
+                    <div><font style="font-family: 'Times New Roman';">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Title:</font><font style="text-indent: 0px; font-size: 5.14pt;" class="TRGRRTFtoHTMLTab">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-family: 'Times New Roman';">Senior Trust
+                        Officer</font></div>
+                    <br>
+                  </td>
+                  <td style="width: 171pt; vertical-align: top; font-family: 'Times New Roman';"><br>
+                  </td>
+                  <td style="width: auto; vertical-align: top; font-family: 'Times New Roman';"><br>
+                  </td>
+                </tr>
+
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.10
+<SEQUENCE>3
+<FILENAME>exeter20225_exhibit4-10.htm
+<DESCRIPTION>AMENDMENT NO. 1 TO SALE AND SERVICING AGREEMENT
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Morgan Lewis
+         Document created using Broadridge PROfile 26.3.2.5342
+         Copyright 1995 - 2026 Broadridge -->
+  </head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;" bgcolor="#ffffff">
+  <div>
+    <div style="color: rgb(0, 0, 0); font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+      <div style="text-align: right; font-family: 'Times New Roman'; font-weight: bold;">Exhibit 4.10</div>
+      <div style="text-align: right; font-family: 'Times New Roman'; font-style: italic; font-weight: bold;">Execution Version</div>
+    </div>
+    <br class="Apple-interchange-newline">
+  </div>
+  <div>
+    <div style="text-align: center; margin-bottom: 12pt; font-family: 'Times New Roman';"><a name="z_Hlk90037832"></a>AMENDMENT NO. 1 TO<br>
+      SALE AND SERVICING AGREEMENT</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">AMENDMENT NO. 1 TO SALE AND SERVICING AGREEMENT, dated as of October 13, 2026 (this &#8220;<u>Amendment</u>&#8221;), among EXETER HOLDINGS TRUST 2022-5, a
+      Delaware statutory trust (the &#8220;<u>Holding Trust</u>&#8221;), EFCAR, LLC, a Delaware limited liability company (the &#8220;<u>Seller</u>&#8221;), EXETER FINANCE LLC, a Delaware limited liability company (the &#8220;<u>Servicer</u>&#8221;), EXETER AUTOMOBILE RECEIVABLES TRUST
+      2022-5, a Delaware statutory trust (the &#8220;<u>Issuer</u>&#8221;), and CITIBANK, N.A., a national banking association, as indenture trustee (in such capacity, the &#8220;<u>Indenture Trustee</u>&#8221;) and as backup servicer (in such capacity, the &#8220;<u>Backup Servicer</u>&#8221;).</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">WHEREAS, the Holding Trust, the Seller, the Servicer, the Issuer, the Indenture Trustee and the Backup Servicer are parties to that certain sale
+      and servicing agreement, dated as of September 18, 2022 (such agreement, as so amended, the &#8220;<u>Sale and Servicing Agreement</u>&#8221;);</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">WHEREAS, the Holding Trust, the Seller, the Servicer, the Issuer, the Indenture Trustee and the Backup Servicer desire to amend the Sale and
+      Servicing Agreement to amend the formula for determining the Specified Reserve Balance and the manner by which the Reserve Account is funded;</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">WHEREAS, pursuant to, and subject to certain conditions described in the Sale and Servicing Agreement, the Holding Trust, the Seller, the
+      Servicer, the Issuer, the Indenture Trustee and the Backup Servicer may, without the consent of any of the Noteholders, amend the Sale and Servicing Agreement to make provisions with respect to matters or questions arising under the Sale and
+      Servicing Agreement which shall not be inconsistent with the provisions of the Sale and Servicing Agreement;</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">WHEREAS, the Rating Agency Condition has been satisfied with respect to this Amendment and the Seller or the Servicer has notified the Indenture
+      Trustee in writing that the Rating Agency Condition has been satisfied with respect to this Amendment;</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">WHEREAS, the Servicer has notified the Owner Trustee and the Indenture Trustee of this Amendment, as described in Section 11.1(d) of the Sale and
+      Servicing Agreement; and</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">WHEREAS, the Seller has caused to be delivered to the Owner Trustee, the Indenture Trustee and the Backup Servicer the Opinion of Counsel
+      described in Section 12.1(c)(i) of the Sale and Servicing Agreement.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">NOW, THEREFORE, in consideration of the foregoing and other good and valuable consideration, the receipt and sufficiency of which are hereby
+      acknowledged, the parties hereto hereby agree as follows:</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">SECTION&#160;1.&#160; <u>Definitions</u>.&#160; Capitalized terms used but not otherwise defined herein have the meanings given to them in the Sale and
+      Servicing Agreement.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">SECTION&#160;2.&#160; <u>Amendments to the Sale and Servicing Agreement</u>.</div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <!--PROfilePageNumberReset%Num%2%%%-->
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(a)&#160; &#160;&#160; The defined terms &#8220;Reserve Account Withdrawal Amount&#8221; and &#8220;Specified Reserve Balance&#8221; in Section 1.1 of the Sale and Servicing Agreement
+      are each hereby deleted and replaced in their respective entireties, as follows:</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-left: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">&#8220;<u>Reserve Account Withdrawal Amount</u>&#8221; means, with respect to any Distribution Date, the sum of (a) the lesser of (x) any
+      shortfall in the amount of Available Funds available to pay the amounts specified in clauses (i) through (xvii) of Section 5.7(a) (taking into account application of Available Funds to the priority of payments specified in Section 5.7(a) and ignoring
+      any provision hereof which otherwise limits the amounts described in such clauses to the amount of funds available) and (y) the amount on deposit in the Reserve Account on such Distribution Date prior to application of amounts on deposit therein
+      pursuant to Section 5.8, and (b) the Additional Reserve Withdrawal for such Distribution Date.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-left: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">&#8220;<u>Specified Reserve Balance</u>&#8221; means, with respect to any Distribution Date, an amount equal to (a) the sum of (i) 1.57% of
+      the Pool Balance as of the Cutoff Date and (ii) the Additional Reserve Balance for such Distribution Date, <u>minus</u> (b) the Additional Reserve Withdrawal for such Distribution Date; <font style="font-style: italic;">provided</font>, that the
+      Specified Reserve Balance will in no event exceed the outstanding principal amount of the Notes on such Distribution Date after giving effect to distributions pursuant to clauses (i) through (xvii) of Section 5.7(a) hereof.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(b)&#160; &#160;&#160; Section 1.1 of the Sale and Servicing Agreement is hereby amended by inserting the following two additional defined terms in appropriate
+      alphabetic order therein:</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-left: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">&#8220;<u>Additional Reserve Balance</u>&#8221; means, for any Distribution Date, an amount, not less than zero, equal to (a) the aggregate
+      amount of any capital contributions made prior to such Distribution Date by one or more Certificateholders in accordance with the terms of Section 2.5 of the Trust Agreement and deposited into the Reserve Account on or after October 13, 2026, <u>minus</u>
+      (b) the aggregate amount of any Additional Reserve Withdrawals for prior Distribution Dates; provided, that, notwithstanding anything to the contrary in this Agreement or any other Basic Document, the Additional Reserve Balance shall be deemed to be
+      reduced to zero for any Distribution Date on or after the date, if any, on which the Rating Agency Condition shall have been satisfied in respect of such reduction and such balance shall be distributed to the applicable contributing
+      Certificateholders in accordance with written directions of the Seller.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-left: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">&#8220;<u>Additional Reserve Withdrawal</u>&#8221; means, for any Distribution Date on or after the Distribution Date in October 2026, an
+      amount equal to the lesser of (a) the Additional Reserve Balance for such Distribution Date and (b) an amount, not less than zero, equal to (i) the Principal Payment Amount with respect to such Distribution Date <u>minus</u> (ii) the amount of Total
+      Available Funds remaining on deposit in the Collection Account after the funding of the items described in clauses (i) through (xvii) of Section 5.7(a) on such Distribution Date.</div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div class="BRPFPageNumberArea" style="text-align: center;"><font class="BRPFPageNumber" style="font-size: 8pt; font-weight: normal; font-style: normal;">2</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">SECTION&#160;3.&#160; <u>Representations and Warranties</u>.&#160; Each of the Holding Trust, the Seller, the Servicer, the Issuer, the Indenture Trustee and
+      the Backup Servicer represents and warrants to the other parties hereto as set forth in this <u>Section 3</u>.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(a)&#160; &#160;&#160; The execution, delivery and performance by such party of this Amendment are within its powers, have been duly authorized by all necessary
+      action, and do not contravene its organizational documents or any contractual restriction, law or governmental regulation, or court decree or order binding on or affecting it.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(b)&#160; &#160;&#160; This Amendment constitutes the legal, valid and binding obligation of such party enforceable against such party in accordance with its
+      terms, subject to applicable bankruptcy, insolvency and similar laws affecting creditors&#8217; rights and general equitable principles.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">SECTION&#160;4.&#160; <u>Binding Effect; Ratification</u>.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(a)&#160; &#160;&#160; This Amendment shall become effective as of the date first set forth above once counterparts hereof shall have been executed and delivered
+      by the parties hereto, at which time this Amendment shall become binding on the parties hereto and their respective successors and assigns.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(b)&#160; &#160;&#160; The Sale and Servicing Agreement, as amended hereby, remains in full force and effect.&#160; On and after the date hereof, each reference in
+      the Sale and Servicing Agreement to &#8220;this Agreement&#8221;, &#8220;hereof&#8221;, &#8220;hereunder&#8221; or words of like import, and each reference in any other Basic Document to the Sale and Servicing Agreement, shall mean and be a reference to the Sale and Servicing
+      Agreement, as amended hereby.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(c)&#160; &#160;&#160; Except as expressly amended hereby, the Sale and Servicing Agreement shall remain in full force and effect and is hereby ratified and
+      confirmed by the parties hereto.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">SECTION&#160;5.&#160; <u>Miscellaneous</u>.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(a)&#160; &#160;&#160; THIS AMENDMENT SHALL BE CONSTRUED IN ACCORDANCE WITH, AND THIS AMENDMENT AND ALL MATTERS ARISING OUT OF OR RELATING IN ANY WAY TO THIS
+      AMENDMENT SHALL BE GOVERNED BY, THE LAW OF THE STATE OF NEW YORK, WITHOUT GIVING EFFECT TO ITS CONFLICT OF LAW PROVISIONS (OTHER THAN SECTIONS 5-1401 AND 5-1402 OF THE NEW YORK GENERAL OBLIGATIONS LAW).&#160; EACH OF THE PARTIES HERETO AND THEIR ASSIGNEES
+      AGREES TO THE NON-EXCLUSIVE JURISDICTION OF ANY FEDERAL COURT LOCATED WITHIN THE STATE OF NEW YORK.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(b)&#160; &#160;&#160; THE PARTIES HERETO HEREBY WAIVE TRIAL BY JURY IN ANY ACTION BROUGHT ON OR WITH RESPECT TO THIS AMENDMENT OR ANY OTHER DOCUMENT OR
+      INSTRUMENT EXECUTED IN CONNECTION HEREWITH OR THEREWITH.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(c)&#160; &#160;&#160; The headings of the various Articles and Sections in this Amendment are for convenience of reference only and shall not define or limit
+      any of the terms or provisions hereof.</div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div class="BRPFPageNumberArea" style="text-align: center;"><font class="BRPFPageNumber" style="font-size: 8pt; font-weight: normal; font-style: normal;">3</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(d)&#160; &#160;&#160; This Amendment may be executed by the parties hereto in separate counterparts, each of which when so executed and delivered shall be an
+      original, but all such counterparts shall together constitute but one and the same instrument.&#160; This Amendment shall be valid, binding, and enforceable against a party when executed and delivered by an authorized individual on behalf of the party by
+      means of: (i) an original manual signature; (ii) a faxed, scanned, or photocopied manual signature; or (iii) any other electronic signature permitted by the federal Electronic Signatures in Global and National Commerce Act, state enactments of the
+      Uniform Electronic Transactions Act, and/or any other relevant electronic signatures law, including any relevant provisions of the Uniform Commercial Code, in each case to the extent applicable. Each faxed, scanned, or photocopied manual signature,
+      or other electronic signature, shall for all purposes have the same validity, legal effect, and admissibility in evidence as an original manual signature. Each party hereto shall be entitled to conclusively rely upon, and shall have no liability with
+      respect to, any faxed, scanned, or photocopied manual signature, or other electronic signature, of any other party and shall have no duty to investigate, confirm or otherwise verify the validity or authenticity thereof. This Amendment may be executed
+      in any number of counterparts, each of which shall be deemed to be an original, but such counterparts shall, together, constitute one and the same instrument.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(e)&#160; &#160;&#160; It is expressly understood and agreed by the parties hereto that (i) this Amendment is executed and delivered by Wilmington Trust Company,
+      not individually or personally but solely as Owner Trustee of the Holding Trust, in the exercise of the powers and authority conferred and vested in it, (ii) each of the representations, covenants, undertakings and agreements herein made on the part
+      of the Holding Trust is made and intended not as personal representations, covenants, undertakings and agreements by Wilmington Trust Company but is made and intended for the purpose of binding only the Holding Trust, (iii) nothing herein contained
+      shall be construed as creating any liability on Wilmington Trust Company, individually or personally, to perform any covenant either expressed or implied contained herein, all such liability, if any, being expressly waived by the parties hereto and
+      by any Person claiming by, through or under the parties hereto, (iv) Wilmington Trust Company has made no investigation as to the accuracy or completeness of any representations or warranties made by the Holding Trust or any other Person in this
+      Amendment and (v) under no circumstances shall Wilmington Trust Company be personally liable for the payment of any indebtedness or expenses of the Holding Trust or be liable for the breach or failure of any obligation, duty (including fiduciary
+      duty, if any), representation, warranty or covenant made or undertaken by the Holding Trust under this Amendment or any other related documents.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(f)&#160; &#160;&#160; It is expressly understood and agreed by the parties hereto that (i) this Amendment is executed and delivered by Wilmington Trust Company,
+      not individually or personally but solely as Owner Trustee of the Issuer, in the exercise of the powers and authority conferred and vested in it, (ii) each of the representations, covenants, undertakings and agreements herein made on the part of the
+      Issuer is made and intended not as personal representations, covenants, undertakings and agreements by Wilmington Trust Company but is made and intended for the purpose of binding only the Issuer, (iii) nothing herein contained shall be construed as
+      creating any liability on Wilmington Trust Company, individually or personally, to perform any covenant either expressed or implied contained herein, all such liability, if any, being expressly waived by the parties hereto and by any Person claiming
+      by, through or under the parties hereto, (iv) Wilmington Trust Company has made no investigation as to the accuracy or completeness of any</div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div class="BRPFPageNumberArea" style="text-align: center;"><font class="BRPFPageNumber" style="font-size: 8pt; font-weight: normal; font-style: normal;">4</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-align: justify; margin-bottom: 12pt; font-family: 'Times New Roman';">representations or warranties made by the Issuer or any other Person in this Amendment and (v) under no circumstances shall Wilmington Trust Company be personally
+      liable for the payment of any indebtedness or expenses of the Issuer or be liable for the breach or failure of any obligation, duty (including fiduciary duty, if any), representation, warranty or covenant made or undertaken by the Issuer under this
+      Amendment or any other related documents.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">(g)&#160; &#160;&#160; This Amendment has been executed and delivered by Citibank, N.A., not in its individual capacity but solely as Indenture Trustee and
+      Backup Servicer, and in no event shall Citibank, N.A. have any liability for the representations, warranties, covenants, agreements or other obligations of the Holding Trust or the Issuer hereunder or in any of the certificates, notices or agreements
+      delivered pursuant hereto, as to all of which recourse shall be had solely to the assets of the Holding Trust or the Issuer, as applicable.&#160; The Indenture Trustee has the same rights, protections and immunities hereunder as it has under the Indenture
+      as if such rights, protections and immunities were expressly set forth herein mutatis mutandis, which shall survive the satisfaction and discharge of the Indenture.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">SECTION&#160;6.&#160; <u>Instruction</u>.&#160; Pursuant to Section 11.1(a) of the Indenture, the Issuer hereby instructs the Indenture Trustee to execute this
+      Amendment.&#160; This instruction is an Issuer Order pursuant to the Indenture.</div>
+    <div style="text-align: center; margin-bottom: 12pt; font-family: 'Times New Roman';">[Remainder of Page Intentionally Left Blank]</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt;"><a name="z_Hlk90037833"></a><br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div class="BRPFPageNumberArea" style="text-align: center;"><font class="BRPFPageNumber" style="font-size: 8pt; font-weight: normal; font-style: normal;">5</font></div>
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed as of the date first above written.</div>
+    <div style="margin-left: 216pt; font-family: 'Times New Roman';">EXETER HOLDINGS TRUST 2022-5,</div>
+    <div style="margin-left: 216pt; margin-bottom: 12pt; font-family: 'Times New Roman';">as Holding Trust</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 24pt;" class="DSPFListTable" id="zd6ee60673b274035875818d5b9e7b48f" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 216pt;"><br>
+          </td>
+          <td style="width: 22.3pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Wilmington Trust Company, not in its individual capacity but solely as Owner Trustee on behalf of the Holding Trust</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zfcbe8640867f44d58e0641e77c6baf10" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 238.3pt;"><br>
+          </td>
+          <td style="width: 20pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+          <td style="width: auto; vertical-align: top; text-align: justify;">
+            <div style="font-family: 'Times New Roman';"><u>/s/ Jacob Stapleford&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+              </u></div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z759c7deac6a04400abea91d37fc00996" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 256.3pt;"><br>
+          </td>
+          <td style="width: 40.3pt; vertical-align: top; font-family: 'Times New Roman';">Name:</td>
+          <td style="width: auto; vertical-align: top; text-align: justify;">
+            <div style="font-family: 'Times New Roman';">Jacob Stapleford</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 24pt;" class="DSPFListTable" id="zcc15a4c7f77f43d7ba649ee46149f449" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 256.3pt;"><br>
+          </td>
+          <td style="width: 40.3pt; vertical-align: top; font-family: 'Times New Roman';">Title:</td>
+          <td style="width: auto; vertical-align: top; text-align: justify;">
+            <div style="font-family: 'Times New Roman';">Assistant Vice President</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="margin-left: 216pt; margin-bottom: 12pt; font-family: 'Times New Roman';">EXETER AUTOMOBILE RECEIVABLES TRUST 2022-5, as Issuer</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 24pt;" class="DSPFListTable" id="z311c8a027d484279b4b87cd4d3d7ae89" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 216pt;"><br>
+          </td>
+          <td style="width: 22.3pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Wilmington Trust Company, not in its individual capacity but solely as Owner Trustee on behalf of the Issuer</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z5fe13f4662a4473da97ab0d35001eb60" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 238.3pt;"><br>
+          </td>
+          <td style="width: 20pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+          <td style="width: auto; vertical-align: top; text-align: justify;">
+            <div style="font-family: 'Times New Roman';"><u>/s/ Jacob Stapleford&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+              </u></div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z6efaeebd4af04ee4903a1a330207c65f" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 256.3pt;"><br>
+          </td>
+          <td style="width: 40.3pt; vertical-align: top; font-family: 'Times New Roman';">Name:</td>
+          <td style="width: auto; vertical-align: top; text-align: justify;">
+            <div style="font-family: 'Times New Roman';">Jacob Stapleford</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 24pt;" class="DSPFListTable" id="z11274a84c87f4d639bd7ad2aa442c93f" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 256.3pt;"><br>
+          </td>
+          <td style="width: 40.3pt; vertical-align: top; font-family: 'Times New Roman';">Title:</td>
+          <td style="width: auto; vertical-align: top; text-align: justify;">
+            <div style="font-family: 'Times New Roman';">Assistant Vice President</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div style="margin-bottom: 24pt;"><br>
+    </div>
+    <div style="margin-left: 216pt; margin-bottom: 24pt; font-family: 'Times New Roman';">EFCAR, LLC, as Seller</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z2682b40d26b645b1917a6212d3b79d89" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 238.3pt;"><br>
+          </td>
+          <td style="width: 20pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';"><u>/s/ Michael Hayes&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+              </u></div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zdc0e67197f454d2d8aa3d27ee3a3795c" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 256.3pt;"><br>
+          </td>
+          <td style="width: 40.3pt; vertical-align: top; font-family: 'Times New Roman';">Name:</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Michael Hayes</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 24pt;" class="DSPFListTable" id="z131a3dae68414c57b3ad356bd0b92da8" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 256.3pt;"><br>
+          </td>
+          <td style="width: 40.3pt; vertical-align: top; font-family: 'Times New Roman';">Title:</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Assistant Vice President</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="margin-left: 216pt; margin-bottom: 24pt; font-family: 'Times New Roman';">EXETER FINANCE LLC, as Servicer</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="za9008deb78d841c1ab9d7ed82aba403c" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 238.3pt;"><br>
+          </td>
+          <td style="width: 20pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';"><u>/s/ Michael Hayes&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+              </u></div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z7c1ca8d7b7344770bac09bedc5b862bb" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 256.3pt;"><br>
+          </td>
+          <td style="width: 40.3pt; vertical-align: top; font-family: 'Times New Roman';">Name:</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Michael Hayes</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 24pt;" class="DSPFListTable" id="z92a935bd74244052b1283841325704e4" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 256.3pt;"><br>
+          </td>
+          <td style="width: 40.3pt; vertical-align: top; font-family: 'Times New Roman';">Title:</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Executive Vice President and Treasurer</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;" noshade="noshade"></div>
+    </div>
+    <div style="margin-bottom: 24pt;"><br>
+    </div>
+    <div style="margin-left: 216pt; margin-bottom: 24pt; font-family: 'Times New Roman';">CITIBANK, N.A., not in its individual capacity but solely as Indenture Trustee and Backup Servicer</div>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zaf98a0b9291f47259e52193d850db788" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 238.3pt;"><br>
+          </td>
+          <td style="width: 20pt; vertical-align: top; font-family: 'Times New Roman';">By:</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';"><u>/s/ Elizabeth Fergadiotis&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+              </u></div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z3129a77e0da64337ab0761952c6a80b2" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 256.3pt;"><br>
+          </td>
+          <td style="width: 40.3pt; vertical-align: top; font-family: 'Times New Roman';">Name:</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Elizabeth Fergadiotis</div>
+          </td>
+        </tr>
+
+    </table>
+    <table style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 24pt;" class="DSPFListTable" id="zf36c5cfe61094b6f8078f6dab877cec0" cellpadding="0" cellspacing="0">
+
+        <tr>
+          <td style="width: 256.3pt;"><br>
+          </td>
+          <td style="width: 40.3pt; vertical-align: top; font-family: 'Times New Roman';">Title:</td>
+          <td style="width: auto; vertical-align: top;">
+            <div style="font-family: 'Times New Roman';">Senior Trust Officer</div>
+          </td>
+        </tr>
+
+    </table>
+  </div>
+  <div><br>
+    <div><br>
+    </div>
+    <br>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

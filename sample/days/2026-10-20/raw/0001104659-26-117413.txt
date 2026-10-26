@@ -1,0 +1,472 @@
+<SEC-DOCUMENT>0001104659-26-117413.txt : 20261020
+<SEC-HEADER>0001104659-26-117413.hdr.sgml : 20261020
+<ACCEPTANCE-DATETIME>20261020160855
+ACCESSION NUMBER:		0001104659-26-117413
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20261020
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20261020
+DATE AS OF CHANGE:		20261020
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VOC Energy Trust
+		CENTRAL INDEX KEY:			0001505413
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				806183103
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35160
+		FILM NUMBER:		261472807
+
+	BUSINESS ADDRESS:	
+		STREET 1:		601 TRAVIS STREET, FLOOR 16
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+		BUSINESS PHONE:		5122366599
+
+	MAIL ADDRESS:	
+		STREET 1:		601 TRAVIS STREET, FLOOR 16
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>tm2627983d1_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM&nbsp;8-K</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>CURRENT REPORT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Pursuant to Section&nbsp;13 or 15(d)&nbsp;of
+the Securities Exchange Act of 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Date of Report (Date of earliest event reported):
+<B>October&nbsp;20, 2026</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>VOC Energy Trust</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact name of registrant as specified in its charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 37%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>Delaware</B></FONT></TD>
+    <TD STYLE="width: 28%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>001-35160</B></FONT></TD>
+    <TD STYLE="width: 35%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>80-6183103</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">(State or other jurisdiction of incorporation)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">(Commission File Number)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">(IRS Employer Identification No.)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; width: 65%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>The Bank of New York Mellon Trust Company, N.A.,
+    Trustee</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Global Corporate Trust</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>811 Main Street, Floor 15</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Houston, Texas</B></P></TD>
+    <TD STYLE="vertical-align: bottom; width: 35%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>77002</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">(Address of principal executive offices)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">(Zip Code)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Registrant&rsquo;s telephone number, including
+area code: <B>1-713-483-6020</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">Check the appropriate box below if the Form&nbsp;8-K filing
+is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction
+A.2. below):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT>&#8239;&#8239;Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT>&#8239;&#8239;Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT>&#8239;&#8239;Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR 240.14d-2(b))</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT>&#8239;&#8239;Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR 240.13e-4(c))</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">Securities registered pursuant to Section&nbsp;12(b)&nbsp;of
+the Act:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 39%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Title of each class</U></B></FONT></TD>
+    <TD STYLE="width: 24%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Trading Symbol(s)</U></B></FONT></TD>
+    <TD STYLE="width: 37%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Name of each exchange on which registered</U></B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Units of Beneficial Interest</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">VOC</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The New York Stock Exchange</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule&nbsp;405 of the Securities Act of 1933 (&sect;230.405 of this chapter) or Rule&nbsp;12b-2 of the Securities
+Exchange Act of 1934 (&sect;240.12b-2 of this chapter).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right; margin-top: 0pt; margin-right: 1in; margin-bottom: 0pt">Emerging growth company&#8239;&#8239;<FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">If an emerging growth company, indicate by check mark if
+the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section&nbsp;13(a)&nbsp;of the Exchange Act. <FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 1in"><B>Item 2.02</B></TD><TD><B>Results of Operations and Financial Condition.</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">On October&nbsp;20, 2026, VOC Energy Trust issued
+a press release announcing the Trust quarterly distribution for the payment period ended September&nbsp;30, 2026. A copy of the press
+release is furnished as Exhibit&nbsp;99.1 hereto and is incorporated herein by reference.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Pursuant to General Instruction B.2 of Form&nbsp;8-K,
+the press release attached as Exhibit&nbsp;99.1 is not &ldquo;filed&rdquo; for purposes of Section&nbsp;18 of the Securities Exchange
+Act of 1934, as amended (the &ldquo;Exchange Act&rdquo;), is not subject to the liabilities of that section and is not deemed incorporated
+by reference in any filing by VOC Energy Trust under the Exchange Act or the Securities Act of 1933, as amended, but is instead &ldquo;furnished&rdquo;
+for purposes of that instruction.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 1in"><B>Item 9.01</B></TD><TD><B>Financial Statements and Exhibits.</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(d)<FONT STYLE="font-size: 10pt"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT>Exhibits.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 10%"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B><U>Exhibit&nbsp;No.</U></B></FONT></TD>
+    <TD STYLE="width: 90%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B><U>Description</U></B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><A HREF="tm2627983d1_ex99-1.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-family: Times New Roman, Times, Serif">99.1</FONT></A></TD>
+    <TD><A HREF="tm2627983d1_ex99-1.htm" STYLE="-sec-extract: exhibit"><FONT STYLE="font-family: Times New Roman, Times, Serif">VOC Energy Trust Press Release issued October&nbsp;20, 2026.</FONT></A></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font-size: 10pt; border-collapse: collapse; width: 100%">
+  <TR STYLE="font-size: 10pt; vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: bold 10pt Times New Roman, Times, Serif">VOC Energy Trust</TD></TR>
+  <TR STYLE="font-size: 10pt; vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+  <TR STYLE="font-size: 10pt; vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; vertical-align: top">By:</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">The Bank of New York Mellon Trust Company, N.A., as Trustee</TD></TR>
+  <TR STYLE="font-size: 10pt; vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+  <TR STYLE="font-size: 10pt; vertical-align: bottom">
+    <TD STYLE="font-size: 10pt; width: 50%">Date: October&nbsp;20, 2026</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 3%">By:</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; width: 47%">/s/ Elaina C. Rodgers</TD></TR>
+  <TR STYLE="font-size: 10pt; vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Elaina C. Rodgers</TD></TR>
+  <TR STYLE="font-size: 10pt; vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Vice President</TD></TR>
+  </TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>tm2627983d1_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 99.1</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>VOC Energy Trust Announces Trust Quarterly Distribution</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>VOC ENERGY TRUST</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><FONT STYLE="font-size: 10pt"><B>The Bank of New
+York Mellon Trust Company, N.A., Trustee</B></FONT><B><FONT STYLE="font-size: 10pt"><I></I></FONT></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B><FONT STYLE="font-size: 10pt"><I></I></FONT><I>NEWS
+RELEASE</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>FOR IMMEDIATE RELEASE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Houston, Texas, October&nbsp;20, 2026 &mdash; VOC Energy Trust (NYSE
+Symbol &mdash; VOC) announced the Trust distribution of net profits for the quarterly payment period ended September&nbsp;30, 2026.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Unitholders of record on October&nbsp;30, 2026 will receive a distribution
+amounting to $3,230,000 or $0.19 per unit, payable November&nbsp;13, 2026.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Volumes, average sales prices and net profits for the payment period
+were:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" ALIGN="CENTER" STYLE="border-collapse: collapse; width: 80%; font: 10pt Times New Roman, Times, Serif">
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Sales volumes:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="padding-left: 0.125in; width: 82%; font-size: 10pt; text-align: left">Oil (Bbl)</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 15%; font: 10pt Times New Roman, Times, Serif; text-align: right">102,393</TD><TD STYLE="width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-align: left">Natural gas (Mcf)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">67,181</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="padding-left: 0.125in; font-size: 10pt; text-align: left">Total (BOE)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">113,590</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Average sales prices:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="padding-left: 0.125in; font-size: 10pt">Oil (per Bbl)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">79.42</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 0.125in; font-size: 10pt; text-align: left">Natural gas (per Mcf)</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">3.95</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Gross proceeds:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 0.125in; font-size: 10pt; text-align: left">Oil sales</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">8,132,063</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="padding-left: 0.125in; font-size: 10pt; text-align: left; padding-bottom: 1pt">Natural gas sales</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">265,110</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 0.25in; font-size: 10pt; text-align: left">Total gross proceeds</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">8,397,173</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Costs:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 0.125in; font-size: 10pt; text-align: left">Lease operating expenses</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">3,593,735</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="padding-left: 0.125in; font-size: 10pt; text-align: left">Production and property taxes</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">219,202</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 0.125in; font-size: 10pt; text-align: left; padding-bottom: 1pt">Development expenses</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">424,491</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="padding-left: 0.25in; font-size: 10pt; text-align: left; padding-bottom: 1pt">Total costs</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">4,237,428</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Net proceeds</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">4,159,745</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: italic 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt">Percentage applicable to Trust&rsquo;s Net Profits Interest</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">80</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">%</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 0.125in; font: 10pt Times New Roman, Times, Serif; text-align: left">Net profits interest</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">3,327,796</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt">Increase in cash reserve held by VOC Brazos Energy Partners, L.P.</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">0</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">Total cash proceeds available for the Trust</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: right">3,327,796</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt">Provision for current estimated Trust expenses</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">(97,796</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">)</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 2.5pt">Net cash proceeds available for distribution</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font: 10pt Times New Roman, Times, Serif; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font: 10pt Times New Roman, Times, Serif; text-align: right">3,230,000</TD><TD STYLE="padding-bottom: 2.5pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">This press release contains forward-looking statements. Although VOC
+Brazos has advised the Trust that VOC Brazos believes that the expectations contained in this press release are reasonable, no assurances
+can be given that such expectations will prove to be correct. The announced distributable amount is based on the amount of cash received
+or expected to be received by the Trustee from the underlying properties on or prior to the record date with respect to the quarter ended
+September&nbsp;30, 2026. Any differences in actual cash receipts by the Trust could affect this distributable amount. Other important
+factors that could cause these statements to differ materially include the actual results of drilling operations, risks inherent in drilling
+and production of oil and gas properties, the ability of commodity purchasers to make payment, actions by the members of the Organization
+of Petroleum Exporting Countries, and other risk factors described in the Trust&rsquo;s Annual Report on Form&nbsp;10-K for the year ended
+December&nbsp;31, 2025 filed with the Securities and Exchange Commission. Statements made in this press release are qualified by the cautionary
+statements made in these risk factors. The Trust does not intend, and assumes no obligations, to update any of the statements included
+in this press release.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 1in; font: 10pt Times New Roman, Times, Serif">Contact:</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left">VOC Energy Trust</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left"><B>The Bank of New York Mellon
+Trust Company, N.A., as Trustee</B></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left"><B>Elaina Rodgers</B></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left"><B>(713) 483-6020</B></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: left"><B>811 Main Street, Floor 15,
+Houston, TX 77002</B></TD></TR>
+  </TABLE>
+
+
+<P STYLE="text-indent: 0.25in; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
