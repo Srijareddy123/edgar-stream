@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "edgar-stream"
+version = "0.1.0"
+description = "Streaming ingestion of SEC EDGAR filings with quality checks and a DuckDB star schema"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+
+[project.scripts]
+edgar-stream = "edgar_stream.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["E501"]
