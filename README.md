@@ -1,6 +1,6 @@
 # edgar-stream
 
-Streaming ingestion of SEC EDGAR filings into a DuckDB star schema, with quality checks and measured freshness.
+A personal project that streams SEC EDGAR filings into a DuckDB star schema, with quality checks and measured freshness.
 
 Topics: data-engineering, redpanda, kafka, duckdb, dbt, airflow, great-expectations, sec-edgar
 
