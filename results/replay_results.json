@@ -1,0 +1,153 @@
+{
+ "container_memory_after_run": [
+  "edgar-stream-redpanda-1: 183.1MiB / 900MiB",
+  "edgar-stream-minio-1: 316.9MiB / 400MiB"
+ ],
+ "days": [
+  {
+   "date": "2026-10-19",
+   "index_rows": 3464,
+   "target_form_rows": 208,
+   "selected": 200,
+   "fetch_failed": 0
+  },
+  {
+   "date": "2026-10-20",
+   "index_rows": 3578,
+   "target_form_rows": 253,
+   "selected": 200,
+   "fetch_failed": 0
+  },
+  {
+   "date": "2026-10-21",
+   "index_rows": 3283,
+   "target_form_rows": 309,
+   "selected": 200,
+   "fetch_failed": 0
+  },
+  {
+   "date": "2026-10-22",
+   "index_rows": 3105,
+   "target_form_rows": 373,
+   "selected": 200,
+   "fetch_failed": 0
+  },
+  {
+   "date": "2026-10-23",
+   "index_rows": 3408,
+   "target_form_rows": 268,
+   "selected": 200,
+   "fetch_failed": 0
+  }
+ ],
+ "stream": {
+  "max_bytes_per_filing": 1500000,
+  "paced_rate_per_s": 25.0
+ },
+ "runs": [
+  {
+   "run_id": "burst-20261026T032137",
+   "messages": 1045,
+   "loaded": 992,
+   "loaded_older_version": 6,
+   "duplicates_dropped": 45,
+   "quarantined": 2,
+   "quarantine_reasons": {
+    "no_sections_found": 2
+   },
+   "wall_seconds": 28.83,
+   "throughput_per_s": 36.2,
+   "freshness_ms_p50": 14294,
+   "freshness_ms_p95": 27195,
+   "label": "burst",
+   "days": [
+    "2026-10-23",
+    "2026-10-22",
+    "2026-10-21",
+    "2026-10-20",
+    "2026-10-19"
+   ],
+   "params": {
+    "rate_per_s": null,
+    "dup_rate": 0.05,
+    "shuffle_window": 20,
+    "seed": 7,
+    "batch_size": 50
+   }
+  },
+  {
+   "run_id": "paced-20261026T032051",
+   "messages": 1045,
+   "loaded": 996,
+   "loaded_older_version": 2,
+   "duplicates_dropped": 45,
+   "quarantined": 2,
+   "quarantine_reasons": {
+    "no_sections_found": 2
+   },
+   "wall_seconds": 42.2,
+   "throughput_per_s": 24.8,
+   "freshness_ms_p50": 638,
+   "freshness_ms_p95": 1840,
+   "label": "paced",
+   "days": [
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21",
+    "2026-10-22",
+    "2026-10-23"
+   ],
+   "params": {
+    "rate_per_s": 25.0,
+    "dup_rate": 0.05,
+    "shuffle_window": 20,
+    "seed": 7,
+    "batch_size": 50
+   }
+  }
+ ],
+ "star_rows": {
+  "fact_filings": 998,
+  "fact_sections": 2924,
+  "dim_companies": 839,
+  "dim_forms": 6,
+  "dim_dates": 317
+ },
+ "older_versions_kept_in_history": 6,
+ "quality_gate_batches": {
+  "total": 22,
+  "failed": 0
+ },
+ "dbt_and_great_expectations": {
+  "dbt": {
+   "seconds": 2.76,
+   "nodes": 21
+  },
+  "great_expectations": [
+   {
+    "table": "fact_filings",
+    "expectations": 6,
+    "failed": 0
+   },
+   {
+    "table": "dim_companies",
+    "expectations": 2,
+    "failed": 0
+   },
+   {
+    "table": "dim_forms",
+    "expectations": 1,
+    "failed": 0
+   },
+   {
+    "table": "dim_dates",
+    "expectations": 2,
+    "failed": 0
+   }
+  ]
+ },
+ "reprocess_of_quarantine": {
+  "quarantined_before": 3,
+  "quarantined_after": 2
+ }
+}
