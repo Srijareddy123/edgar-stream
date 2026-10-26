@@ -1,50 +1,43 @@
 # edgar-stream
 
-> Streaming ingestion of SEC EDGAR filings into a DuckDB star schema, with quality checks and measured freshness. Topics: data-engineering, redpanda, kafka, duckdb, dbt, airflow, great-expectations, sec-edgar
+Streaming ingestion of SEC EDGAR filings into a DuckDB star schema, with quality checks and measured freshness.
 
-A personal data engineering project: it keeps a small filings warehouse fresh as new 10-K, 10-Q and 8-K filings arrive, and reports how fresh and how clean it is.
+Topics: data-engineering, redpanda, kafka, duckdb, dbt, airflow, great-expectations, sec-edgar
 
 ![Dashboard built from the measured replay](docs/dashboard.png)
 
 ## Results
 
-Replay of 5 real EDGAR days (2026-10-19 to 2026-10-23, up to 200 filings sampled per day: 1000 filings plus 45 injected redeliveries = 1045 events) through Redpanda and MinIO on a laptop. Command: `make stack-up && make eval`, output in `results/replay_results.json`.
+Replay of 5 real EDGAR days (1045 events) on a laptop. Command: `make stack-up && make eval`.
 
-| Run | Events | Events/s | Freshness p50 | Freshness p95 | Duplicates dropped | Older version kept in history | Quarantined |
-|---|---|---|---|---|---|---|---|
-| Paced at 25 events/s | 1045 | 24.8 | 638 ms | 1840 ms | 45 | 2 | 2 |
-| Burst, newest day first | 1045 | 36.2 | 14.3 s | 27.2 s | 45 | 6 | 2 |
+| Run | Events/s | Freshness p50 | Freshness p95 | Duplicates dropped | Quarantined |
+|---|---|---|---|---|---|
+| Paced at 25 events/s | 24.8 | 638 ms | 1840 ms | 45 | 2 |
+| Burst, newest day first | 36.2 | 14.3 s | 27.2 s | 45 | 2 |
 
-- Freshness is event publish time to queryable in DuckDB. The burst run includes queue wait, so read the paced row as steady state.
-- The 45 duplicates are 5 percent redelivery that the producer injects on purpose. The 2 quarantined files are real: `no_sections_found` (one 10-Q, one 8-K).
-- Warehouse: 998 filing versions, 2924 sections, 839 companies, 6 forms, 317 dates. All 22 load batches passed Great Expectations, and 11 checks on the star tables passed after `dbt build` (21 nodes, 2.8 s).
-- 285 of 998 filings were cut at 1.5 MB when downloaded (mostly 10-Q and 10-K), so their later sections are missing.
+285 of 998 filings were cut at 1.5 MB when downloaded, so their later sections are missing. Warehouse counts and caveats: [docs/RESULTS.md](docs/RESULTS.md).
 
 ## How it works
 
 ```mermaid
 flowchart LR
-  A[EDGAR daily index] --> B[Producer]
-  B --> C[(Redpanda topic)]
-  C --> D[Idempotent consumer]
-  D -->|parse ok| E[(MinIO raw/dt=day)]
-  D -->|fails parse or checks| Q[(MinIO quarantine/ with reason)]
-  D --> F[(DuckDB staging)]
-  F --> G[dbt star schema]
-  G --> H[Great Expectations]
-  F --> I[HTML dashboard]
-  Q -.->|reprocess after a fix| D
+  A[EDGAR index] --> B[Producer] --> C[(Redpanda)] --> D[Consumer]
+  D --> E[(MinIO raw)] & F[(DuckDB)] & Q[(MinIO quarantine)]
+  F --> G[dbt star schema] --> H[Great Expectations]
 ```
 
-The index gives one event per filing. The consumer fetches the file, parses the SEC header and `Item` sections, runs a Great Expectations gate on the batch, lands the raw file in MinIO by filing date, and commits the rows to DuckDB in one transaction. Kafka offsets are committed only after that commit. Rows that fail parsing or the gate go to `quarantine/` with a JSON file holding the reason. `make reprocess` runs them through the current parser, and files are deleted from quarantine only after they load. Airflow runs the daily DAG and a backfill DAG over a date range, with 3 retries.
+- The index gives one event per filing; the consumer fetches and parses the SEC header and `Item` sections.
+- A Great Expectations gate checks each batch, and rows are committed to DuckDB in one transaction.
+- Kafka offsets are committed only after that commit.
+- Rows that fail parsing or the gate go to `quarantine/` with a JSON reason; `make reprocess` retries them.
+- Airflow runs the daily DAG and a backfill DAG, with 3 retries. More in [docs/DESIGN.md](docs/DESIGN.md).
 
 ## Design choices
 
-- **Dedupe key is accession plus version.** A repeated event is dropped. A filing is also versioned by form: an amended filing (10-K/A) is a newer version of the same company, form and period. Older versions stay in history, but the current pointer only moves forward, so arrival order does not matter (property tests check this).
-- **8-Ks have no period, so they match on company, event date and item list.** I first keyed them on company and date only and found different 8-Ks filed on the same day were treated as versions of each other.
-- **DuckDB instead of PySpark.** The data is a few thousand rows per day. DuckDB runs the transforms in one process and keeps memory under a few hundred MB next to the other services.
-- **Great Expectations runs twice:** on each load batch before commit (bad rows are quarantined) and on the star tables after dbt.
-- **A parser bug I found by replaying real days:** headings written with thin spaces (`Item&#8201;1.01`) did not match, so valid 8-Ks went to quarantine. The fix is in `parse.py` and has a test.
+- **Dedupe on accession plus version**, so arrival order does not matter (property tests check this).
+- **8-Ks match on company, event date and item list**, because same-day 8-Ks were wrongly treated as versions of each other.
+- **DuckDB instead of PySpark**, since the data is a few thousand rows per day and memory stays under a few hundred MB.
+- **Great Expectations runs twice**, before commit (bad rows are quarantined) and on the star tables after dbt.
 
 ## Run it
 
