@@ -1,0 +1,9 @@
+FROM apache/airflow:2.10.5-python3.12
+USER airflow
+WORKDIR /opt/edgar
+COPY --chown=airflow:root requirements.txt pyproject.toml ./
+RUN python -m venv /opt/airflow/edgar-venv \
+    && /opt/airflow/edgar-venv/bin/pip install --no-cache-dir -r requirements.txt
+COPY --chown=airflow:root src ./src
+COPY --chown=airflow:root dbt ./dbt
+RUN /opt/airflow/edgar-venv/bin/pip install --no-cache-dir --no-deps -e .
