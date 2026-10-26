@@ -8,7 +8,7 @@ A personal data engineering project: it keeps a small filings warehouse fresh as
 
 ## Results
 
-Replay of 5 real EDGAR days (2026-10-19 to 2026-10-23, 200 filings sampled per day, 1000 events) through Redpanda and MinIO on a laptop. Command: `make stack-up && make eval`, output in `results/replay_results.json`.
+Replay of 5 real EDGAR days (2026-10-19 to 2026-10-23, up to 200 filings sampled per day: 1000 filings plus 45 injected redeliveries = 1045 events) through Redpanda and MinIO on a laptop. Command: `make stack-up && make eval`, output in `results/replay_results.json`.
 
 | Run | Events | Events/s | Freshness p50 | Freshness p95 | Duplicates dropped | Older version kept in history | Quarantined |
 |---|---|---|---|---|---|---|---|
@@ -51,7 +51,7 @@ The index gives one event per filing. The consumer fetches the file, parses the 
 No keys, no network, no containers needed for the demo (Python 3.12 or 3.13):
 
 ```bash
-python -m venv .venv && . .venv/bin/activate
+python3 -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt && pip install -e . --no-deps
 make demo            # replays the committed sample, builds the star schema, writes site/index.html
 make dashboard       # serves it at http://localhost:8501
